@@ -1,13 +1,8 @@
 - title: Home
-  href: index.html
+  href: home
 
 - title: About
-  href: about.html
+  href: about
 
-- title: Posts
-  href: list/posts.html
-
-- title: Documentation
-  href: list/projects.html
-
-
+- title: Projects
+  href: list/projects
