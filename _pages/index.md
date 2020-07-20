@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: home
+permalink: index.html
 narrow: true
 title: Home
 ---
