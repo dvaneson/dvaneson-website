@@ -25,7 +25,6 @@ gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 gem "kramdown-math-katex"
 
 group :jekyll_plugins do
-  gem "github-pages"
   gem "jekyll-default-layout", git: "https://github.com/benbalter/jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
