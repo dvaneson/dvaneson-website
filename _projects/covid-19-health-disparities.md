@@ -1,10 +1,28 @@
 ---
-title: Covid-19 Health Disparities
+layout: project
+title: "Covid-19 Health Disparities"
+date: 12 July 2020
+image:
+    path: /assets/img/projects/covid-19.png
+caption: Graphing COVID-19 death rate vs ABSMs
+description: >
+    Inspired by The Public Health Disparities Geocoding Project, this graph compares COVID-19 death rate with various area-based socioeconomic measures (ABSMs). 
+links:
+    - title: Data Set
+      url: https://docs.google.com/spreadsheets/d/1ryDLf0bpagEYtGZO5FGQRyxD3gNpUqyR3aii-zcRU9c/edit?usp=sharing
+    - title: Tableau
+      url: https://public.tableau.com/profile/donovan.ellison#!/vizhome/COVID-19DeathRatevsABSMs/ABSMBoard
+featured: false
 ---
+
+# Covid-19 Health Disparities
+
+1.  this unordered seed list will be replaced by the toc
+{:toc}
 
 ## Graph
 
-{% include utilities/tableau-embed.html %}
+{% include tableau-embed.html %}
 
 ## Terms
 
