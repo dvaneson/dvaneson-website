@@ -1,0 +1,166 @@
+{
+    "basics": {
+        "name": "Donovan Ellison",
+        "label": "Software Engineer and Researcher",
+        "summary": "Hello! I am a Portland State University alumni looking full time work as a Software Engineer. To see some of my projects check out my website, https:\/\/dvaneson.com",
+        "location": {
+            "address": "3175 SW 198th Ave",
+            "postalCode": "97003",
+            "city": "Beaverton",
+            "countryCode": "US",
+            "region": "OR"
+        },
+        "phone": "971-400-3011",
+        "website": "https:\/\/dvaneson.com",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "donovan-ellison-631825182",
+                "url": "https:\/\/www.linkedin.com\/in\/donovan-ellison-631825182"
+            },
+            {
+                "network": "GitHub",
+                "username": "dvaneson",
+                "url": "https:\/\/github.com\/dvaneson"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Portland State University",
+            "summary": "- Assisted students with Computer Science course work.\n- Debugged students code, in particular C++ and x86 Assembly. Taught students how to use GDB.\n- Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming.",
+            "position": "Computer Science Tutor",
+            "startDate": "2019-10-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "company": "Akamai Technologies",
+            "summary": "- Developed and maintained a data pipeline used to track user metrics and information with AWS.\n- Used and maintained Terraform configurations for the deployment of non-production code.",
+            "position": "Software Engineer Intern",
+            "startDate": "2019-01-01",
+            "endDate": "2019-06-01"
+        },
+        {
+            "company": "Comscore, Inc.",
+            "summary": "- Developed testing framework for QA. Allowed QA to make tests using reusable predefined methods without needing any programming experience.\n- Performed weekly deploys to production environments for developers. Ensured code worked as expected and all changes were properly documented.\n\nMaintained scripts that automate the deployment process.",
+            "position": "DevOps Intern",
+            "startDate": "2018-07-01",
+            "endDate": "2018-12-01"
+        },
+        {
+            "company": "XPO Logistics, Inc.",
+            "summary": "- Developed a web app to automate the process of changing the weather alerts on the companies web page. Previously had to email desired changes to developers and then deploy those changes to production.",
+            "position": "Software Engineer Intern",
+            "startDate": "2018-01-01",
+            "endDate": "2018-06-01"
+        },
+        {
+            "company": "Janrain, Inc.",
+            "summary": "- Built tests for developers to promote test-driven development with Behave. \n- Used the selenium framework to create tests for a web app.",
+            "position": "Software QA Intern",
+            "startDate": "2017-07-01",
+            "endDate": "2017-12-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Portland State University",
+            "area": "University Honors and Computer Science",
+            "studyType": "Bachelor of Science",
+            "gpa": "3.73",
+            "startDate": "2016-01-01",
+            "endDate": "2020-01-01"
+        },
+        {
+            "institution": "Portland Community College",
+            "area": "Computer Science",
+            "studyType": "Associate of Science",
+            "gpa": "4.0",
+            "startDate": "2015-01-01",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Low Level Programming"
+        },
+        {
+            "name": "Functional Programming"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Artificial Intelligence (AI)"
+        },
+        {
+            "name": "Mathematics"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "Software Quality Assurance"
+        },
+        {
+            "name": "Test Driven Development"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "LaTeX"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "AWS Command Line Interface (CLI)"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "JIRA"
+        },
+        {
+            "name": "Terraform"
+        },
+        {
+            "name": "Selenium"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "x86 Assembly"
+        },
+        {
+            "name": "Pattern Recognition"
+        }
+    ]
+}

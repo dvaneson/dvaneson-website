@@ -5,12 +5,12 @@ hide_description: false
 menu: true
 order: 3
 left_column:
+    - education
+    - publications
     - work
     #  - volunteer
-    - education
     #  - awards
-    - publications
-#  - references
+    #  - references
 right_column:
     - languages
     - skills
