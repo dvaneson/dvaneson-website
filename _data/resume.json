@@ -1,20 +1,17 @@
 {
     "basics": {
-        "name": "Donovan Ellison",
         "label": "Software Engineer and Researcher",
-        "summary": "Hello! I am a Portland State University alumni looking full time work as a Software Engineer.",
-        "location": {
-            "address": "3175 SW 198th Ave",
-            "postalCode": "97003",
-            "city": "Beaverton",
-            "countryCode": "US",
-            "region": "OR"
-        },
         "phone": "971-400-3011",
         "website": "https://dvaneson.com",
+        "summary": "Hello! I am a Portland State University graduate with a Bachelor of Science in University Honors and Computer Science. I am passionate about learning and am always looking for ways to challenge myself. \r\n\r\nI'm interested in high-assurance software, low-level programming, and data analysis. My thesis, \"Functional Programming for Systems Software\", provides a case study of Habit, a functional language designed for low-level programming. \r\n\r\nTo see some of my projects, visit https:\/\/dvaneson.com\/projects",
+        "location": {
+            "city": "Beaverton",
+            "countryCode": "USA",
+            "region": "OR"
+        },
         "profiles": [
             {
-                "network": "linkedin",
+                "network": "LinkedIn",
                 "username": "Donovan Ellison",
                 "url": "https://www.linkedin.com/in/donovan-ellison-631825182"
             },
@@ -23,7 +20,8 @@
                 "username": "dvaneson",
                 "url": "https://github.com/dvaneson"
             }
-        ]
+        ],
+        "name": "Donovan Ellison"
     },
     "work": [
         {
@@ -73,94 +71,88 @@
         },
         {
             "institution": "Portland Community College",
-            "area": "Computer Science",
             "studyType": "Associate of Science",
             "gpa": "4.0",
             "startDate": "2015-01-01",
             "endDate": "2016-01-01"
         }
     ],
+    "publications": [
+        {
+            "name": "Functional Programming for Systems Software: Implementing Baremetal Programs in Habit",
+            "publisher": "University Honors Theses",
+            "releaseDate": "",
+            "website": "",
+            "summary": ""
+        }
+    ],
     "skills": [
         {
-            "name": "Low Level Programming"
+            "name": "Git",
+            "level": "Expert"
         },
         {
-            "name": "Functional Programming"
+            "name": "LaTeX",
+            "level": "Expert"
         },
         {
-            "name": "Research"
+            "name": "AWS",
+            "level": "Intermediate",
+            "keywords": [
+                "Command Line Interface",
+                "EC2",
+                "S3"
+            ]
         },
         {
-            "name": "Machine Learning"
+            "name": "Agile Development",
+            "level": "Intermediate",
+            "keywords": [
+                "JIRA",
+                "Scrum"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "C\/C++",
+            "fluency": "5/5"
         },
         {
-            "name": "Artificial Intelligence (AI)"
+            "language": "Python",
+            "fluency": "4/5"
         },
         {
-            "name": "Mathematics"
+            "language": "Haskell",
+            "fluency": "3/5"
         },
         {
-            "name": "Data Science"
+            "language": "x86 Assembly",
+            "fluency": "3/5"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Data Science",
+            "keywords": [
+                "Machine Learning",
+                "Mathematics"
+            ]
         },
         {
-            "name": "Object-Oriented Programming (OOP)"
+            "name": "High Assurance Software",
+            "keywords": [
+                "Software Verification",
+                "Functional Programming"
+            ]
         },
         {
-            "name": "Software Quality Assurance"
-        },
-        {
-            "name": "Test Driven Development"
-        },
-        {
-            "name": "Software Development"
-        },
-        {
-            "name": "Programming"
-        },
-        {
-            "name": "C (Programming Language)"
-        },
-        {
-            "name": "C++"
-        },
-        {
-            "name": "Git"
-        },
-        {
-            "name": "LaTeX"
-        },
-        {
-            "name": "Amazon Web Services (AWS)"
-        },
-        {
-            "name": "AWS Command Line Interface (CLI)"
-        },
-        {
-            "name": "Python (Programming Language)"
-        },
-        {
-            "name": "Linux"
-        },
-        {
-            "name": "JIRA"
-        },
-        {
-            "name": "Terraform"
-        },
-        {
-            "name": "Selenium"
-        },
-        {
-            "name": "Problem Solving"
-        },
-        {
-            "name": "Communication"
-        },
-        {
-            "name": "x86 Assembly"
-        },
-        {
-            "name": "Pattern Recognition"
+            "name": "Low Level Programming",
+            "keywords": [
+                "C\/C++",
+                "Operating Systems",
+                "Baremetal Programs"
+            ]
         }
     ]
 }
