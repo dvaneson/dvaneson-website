@@ -83,10 +83,8 @@ employment:
           keywords: []
           highlights:
               - >-
-                  Developed a web app to automate the process of changing the
-                  weather alerts on the companies web page. Previously had to
-                  email desired changes to developers and then deploy those
-                  changes to production.
+                  Developed an internal web app to automate the process of changing the
+                  weather alerts on the companies web page. 
         - position: Software QA Intern
           employer: 'Janrain, Inc.'
           summary: ''
