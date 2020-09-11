@@ -1,0 +1,8 @@
+{
+    "theme": "../fresh-themes/themes/classic",
+    "pdf": "weasyprint",
+    "sectionTitles": {
+      "employment": "Experience",
+      "writing": "Publications"
+    }
+}

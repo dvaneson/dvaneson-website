@@ -1,158 +1,175 @@
 {
-    "basics": {
-        "label": "Software Engineer and Researcher",
-        "phone": "971-400-3011",
-        "website": "https://dvaneson.com",
-        "summary": "Hello! I am a Portland State University graduate with a Bachelor of Science in University Honors and Computer Science. I am passionate about learning and am always looking for ways to challenge myself. \r\n\r\nI'm interested in high-assurance software, low-level programming, and data analysis. My thesis, \"Functional Programming for Systems Software\", provides a case study of Habit, a functional language designed for low-level programming. \r\n\r\nTo see some of my projects, visit https://dvaneson.com/projects",
-        "location": {
-            "city": "Beaverton",
-            "countryCode": "USA",
-            "region": "OR"
-        },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "Donovan Ellison",
-                "url": "https://www.linkedin.com/in/donovan-ellison-631825182"
-            },
-            {
-                "network": "GitHub",
-                "username": "dvaneson",
-                "url": "https://github.com/dvaneson"
-            }
-        ],
-        "name": "Donovan Ellison"
-    },
-    "work": [
-        {
-            "company": "Portland State University",
-            "summary": "- Assisted students with Computer Science course work.\n- Debugged students code, in particular C++ and x86 Assembly. Taught students how to use GDB.\n- Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming.",
-            "position": "Computer Science Tutor",
-            "startDate": "2019-10-01",
-            "endDate": "2020-08-01"
-        },
-        {
-            "company": "Akamai Technologies",
-            "summary": "- Developed and maintained a data pipeline used to track user metrics and information with AWS.\n- Used and maintained Terraform configurations for the deployment of non-production code.",
-            "position": "Software Engineer Intern",
-            "startDate": "2019-01-01",
-            "endDate": "2019-06-01"
-        },
-        {
-            "company": "Comscore, Inc.",
-            "summary": "- Developed testing framework for QA. Allowed QA to make tests using reusable predefined methods without needing any programming experience.\n- Performed weekly deploys to production environments for developers. Ensured code worked as expected and all changes were properly documented.\n\nMaintained scripts that automate the deployment process.",
-            "position": "DevOps Intern",
-            "startDate": "2018-07-01",
-            "endDate": "2018-12-01"
-        },
-        {
-            "company": "XPO Logistics, Inc.",
-            "summary": "- Developed a web app to automate the process of changing the weather alerts on the companies web page. Previously had to email desired changes to developers and then deploy those changes to production.",
-            "position": "Software Engineer Intern",
-            "startDate": "2018-01-01",
-            "endDate": "2018-06-01"
-        },
-        {
-            "company": "Janrain, Inc.",
-            "summary": "- Built tests for developers to promote test-driven development with Behave. \n- Used the selenium framework to create tests for a web app.",
-            "position": "Software QA Intern",
-            "startDate": "2017-07-01",
-            "endDate": "2017-12-01"
-        }
-    ],
-    "education": [
-        {
-            "institution": "Portland State University",
-            "area": "University Honors and Computer Science",
-            "studyType": "Bachelor of Science",
-            "gpa": "3.73",
-            "startDate": "2016-01-01",
-            "endDate": "2020-01-01"
-        },
-        {
-            "institution": "Portland Community College",
-            "studyType": "Associate of Science",
-            "gpa": "4.0",
-            "startDate": "2015-01-01",
-            "endDate": "2016-01-01"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Functional Programming for Systems Software: Implementing Baremetal Programs in Habit",
-            "publisher": "University Honors Theses",
-            "releaseDate": "",
-            "website": "",
-            "summary": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": "Git",
-            "level": "Expert"
-        },
-        {
-            "name": "LaTeX",
-            "level": "Expert"
-        },
-        {
-            "name": "AWS",
-            "level": "Intermediate",
-            "keywords": [
-                "Command Line Interface",
-                "EC2",
-                "S3"
-            ]
-        },
-        {
-            "name": "Agile Development",
-            "level": "Intermediate",
-            "keywords": [
-                "JIRA",
-                "Scrum"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "C/C++",
-            "fluency": "5/5"
-        },
-        {
-            "language": "Python",
-            "fluency": "4/5"
-        },
-        {
-            "language": "Haskell",
-            "fluency": "3/5"
-        },
-        {
-            "language": "x86 Assembly",
-            "fluency": "3/5"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Data Science",
-            "keywords": [
-                "Machine Learning",
-                "Mathematics"
-            ]
-        },
-        {
-            "name": "High Assurance Software",
-            "keywords": [
-                "Software Verification",
-                "Functional Programming"
-            ]
-        },
-        {
-            "name": "Low Level Programming",
-            "keywords": [
-                "C/C++",
-                "Operating Systems",
-                "Baremetal Programs"
-            ]
-        }
+  "basics": {
+    "label": "Software Engineer and Researcher",
+    "email": "dvaneson@gmail.com",
+    "phone": "971-400-3011",
+    "website": "https://dvaneson.com",
+    "other": [],
+    "name": "Donovan Ellison",
+    "summary": "I am a PSU alumni with a passion for learning, always finding new ways to challenge myself. <br><br> My interests include high assurance software, low level programming, and data analysis. My honors thesis provides a case study of Habit, a functional language designed for low level programming.  <br><br> To see some of my projects, visit https://dvaneson.com/projects",
+    "picture": "https://dvaneson.com/assets/icons/icon.png",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Donovan Ellison",
+        "url": "https://www.linkedin.com/in/donovan-ellison-631825182"
+      },
+      {
+        "network": "GitHub",
+        "username": "dvaneson",
+        "url": "https://github.com/dvaneson"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "Portland State University",
+      "position": "Computer Science Tutor",
+      "startDate": "2019-10-01",
+      "endDate": "2020-08-01",
+      "summary": "Part-time tutoring for lower-division courses.",
+      "highlights": [
+        "Debugged students code in C, C++, Java, and x86 Assembly.",
+        "Taught students how to use GDB.",
+        "Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming."
+      ]
+    },
+    {
+      "company": "Akamai Technologies",
+      "position": "Software Engineer Intern",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-01",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained a data pipeline through AWS to track user metrics.",
+        "Used and maintained Terraform configurations for the deployment of non-production code."
+      ]
+    },
+    {
+      "company": "Comscore, Inc.",
+      "position": "DevOps Intern",
+      "startDate": "2018-07-01",
+      "endDate": "2018-12-01",
+      "summary": "",
+      "highlights": [
+        "Developed testing framework for QA. Allowed QA to make tests using reusable predefined methods without needing any programming experience.",
+        "Performed weekly deploys to production environments for developers. Ensured code worked as expected and all changes were properly documented.",
+        "Maintained scripts that automate the deployment process."
+      ]
+    },
+    {
+      "company": "XPO Logistics, Inc.",
+      "position": "Software Engineer Intern",
+      "startDate": "2018-01-01",
+      "endDate": "2018-06-01",
+      "summary": "",
+      "highlights": [
+        "Developed a web app to automate the process of changing the weather alerts on the companies web page. Previously had to email desired changes to developers and then deploy those changes to production."
+      ]
+    },
+    {
+      "company": "Janrain, Inc.",
+      "position": "Software QA Intern",
+      "startDate": "2017-07-01",
+      "endDate": "2017-12-01",
+      "summary": "",
+      "highlights": [
+        "Built tests for developers to promote test-driven development with Behave.",
+        "Used the selenium framework to create tests for a web app."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Portland State University",
+      "gpa": "3.73",
+      "startDate": "2016-09-01",
+      "endDate": "2020-08-01",
+      "area": "University Honors and Computer Science",
+      "studyType": "Bachelor of Science"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Agile Development",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "JIRA",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Master",
+      "keywords": [
+        "C/C++",
+        "x86 Assembly",
+        "Baremetal Programming"
+      ]
+    },
+    {
+      "name": "Functional Programming",
+      "level": "Advanced",
+      "keywords": [
+        "Haskell",
+        "Habit"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "Math",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Development Operations",
+      "level": "Intermediate",
+      "keywords": [
+        "Terraform",
+        "Jenkins",
+        "AWS"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "publications": [
+    {
+      "name": "Functional Programming for Systems Software: Implementing Baremetal Programs in Habit",
+      "publisher": "University Honors Theses",
+      "releaseDate": "2020-09-01",
+      "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
+      "summary": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "High Assurance Software",
+      "keywords": [
+        "Software Verification",
+        "Functional Programming"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "C/C++",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "Python",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Haskell",
+      "fluency": "Professional working"
+    },
+    {
+      "language": "x86 Assembly",
+      "fluency": "Professional working"
+    }
+  ]
 }

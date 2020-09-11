@@ -1,181 +1,171 @@
-basics:
-  name: "Nick Engmann"
-  label: "Systems Architecture Engineer"
-  picture: "/assets/icons/icon.png"
-  email: "cyengmann@gmail.com"
-  phone: "(214) 316-0638"
-  website: "https://nickengmann.com"
-  summary: >
-    I'm an aspiring inventor who seeks to learn something new every day. 
-    I graduated the University of Texas at Austin Spring of 2016 with a bachelors in Integrated Circuits and Computer Engineering and a minor in Government. <br><br>
-
-
-    My interests include robotics, cyber-security, internet of things technology, defense, consulting, app development, and event organizing. 
-    However, the list of all my passions extends much further.<br><br>
-
-    My dream job is to obtain a position where I can create new things to help better all the individuals around me. 
-    If you're interested in someone with my skill-set, or would like to discuss something tech. related feel free to reach out.<br><br> 
-    I'd love to talk.
-    <br><br>
-    
-    [Download my Resume here](/assets/Resume.pdf)
-
-  location:
-    address: ""
-    postalCode: "11216"
-    city: "Brooklyn"
-    countryCode: "US"
-    region: "New York"
-  profiles:
-    - network: "Github"
-      username: "NickEngmann"
-      url: "https://github.com/NickEngmann"
-    - network: "LinkedIn"
-      username: "Nick Engmann"
-      url: "https://www.linkedin.com/in/nick-engmann"
-    - network: "Hackster"
-      username: "nick-engmann"
-      url: "https://www.hackster.io/nick-engmann"
-work:
-  - company: "Circadence"
-    position: "Systems Architecture Engineer"
-    website: "https://www.circadence.com/"
-    startDate: "2018-09-02"
-    endDate: ""
-    summary: >
-      Working on the Research and Development team at Circadence to provide state of the art technologies for cyber-security penetration testing.
-    highlights:
-      - "Responsible for architecting, implementing and testing multiple software and firmware solutions for custom hardware."
-      - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
-      - "Maintains two high quality 3D printers for both rapid design and production"
-      - "Utilized CAD software to design multiple enclosures for custom hardware solutions."
-      - "Designed multiple custom PCB solutions utilizing both the ESP32 and ATTiny85 chipset."
-  - company: "Hackster"
-    position: "Contributing Freelance Writer"
-    website: "https://www.hackster.io/nick-engmann/articles"
-    startDate: "2019-07-15"
-    endDate: "2020-02-15"
-    summary: >
-      Researched and covered different technologies that interest the readership.
-    highlights:
-      - "Curated 13 different articles, with concepts ranging from green energy technologies to hardware cybersecurity solutions."
-  - company: "Flashcards for Developers"
-    position: "Co-Founder"
-    website: "https://www.flashcardsfordevelopers.com/"
-    startDate: "2018-07-15"
-    endDate: "2019-01-30"
-    summary: >
-      Developed a website to help individuals with technical interview prep using flashcards
-    highlights:
-      - "Researched and curated content based on user wants/needs"
-      - "Part of a small development team to iterate on React web application features."
-      - "Managed a team of up to 4 contractors."
-  - company: "SPAWAR"
-    position: "Embedded Software Engineer"
-    website: "https://www.circadence.com/"
-    startDate: "2017-07-01"
-    endDate: "2018-09-01"
-    summary: >
-      Worked in a premire government research labatory on Robotics Projects.
-    highlights:
-      - "Built a Cybersecure Radio platform"
-      - "Architected a solution to upgrade the communications platform to support the JAUS protocol on the TALON Explosive Ordnance Disposal Robot, using external embedded devices."
-      - "Wrote a radio command API with 12 different function calls which interface with an embedded modular radio."
-      - "Developed a React/Django application to calculate ROI on Cybersecurity tools for specific environments."
-      - "Famialized with various Linux build environments such as bitbake, cmake, and make."
-  - company: "Major League Hacking"
-    position: "Coach"
-    website: "https://mlh.io/"
-    startDate: "2015-12-01"
-    endDate: "2018-11-01"
-    summary: >
-      Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH).
-    highlights:
-      - "Regular public speaking experience in front of 500+ people"
-      - "Presentations involve communicating technical topics to audience of varying skill levels."
-      - "Teach developers how to solve a wide variety of programming challenges and actively help them debug problems across a variety of languages & platforms."
+meta:
+    format: FRESH@^1.0.0-beta
+    modified: '2020-09-08T23:02:51.701Z'
+name: Donovan Ellison
+info:
+    label: Software Engineer and Researcher
+    image: 'https://dvaneson.com/assets/icons/icon.png'
+    brief: >-
+        I am a PSU alumni with a passion for learning, always finding new ways
+        to challenge myself.
+        <br><br>
+        My interests include high assurance software, low level programming, and
+        data analysis. My honors thesis provides a case study of Habit, a
+        functional language designed for low level programming. 
+        <br><br>
+        To see some of my projects, visit https://dvaneson.com/projects
+contact:
+    email: dvaneson@gmail.com
+    phone: 971-400-3011
+    website: 'https://dvaneson.com'
+    other: []
+social:
+    - label: linkedin2
+      network: LinkedIn
+      url: 'https://www.linkedin.com/in/donovan-ellison-631825182'
+      user: Donovan Ellison
+    - label: GitHub
+      network: GitHub
+      url: 'https://github.com/dvaneson'
+      user: dvaneson
+location:
+    city: Beaverton
+    region: OR
+    country: USA
+employment:
+    history:
+        - position: Computer Science Tutor
+          employer: Portland State University
+          summary: Part-time tutoring for lower-division courses.
+          start: '2019-10-01'
+          end: '2020-08-01'
+          keywords: []
+          highlights:
+              - 'Debugged students code in C, C++, Java, and x86 Assembly.'
+              - Taught students how to use GDB.
+              - >-
+                  Explained Computer Science concepts such as data structures,
+                  discrete structures, and object oriented programming.
+        - position: Software Engineer Intern
+          employer: Akamai Technologies
+          summary: ''
+          start: '2019-01-01'
+          end: '2019-06-01'
+          keywords: []
+          highlights:
+              - >-
+                  Developed and maintained a data pipeline through AWS to
+                  track user metrics.
+              - >-
+                  Used and maintained Terraform configurations for the
+                  deployment of non-production code.
+        - position: DevOps Intern
+          employer: 'Comscore, Inc.'
+          summary: ''
+          start: '2018-07-01'
+          end: '2018-12-01'
+          keywords: []
+          highlights:
+              - >-
+                  Developed testing framework for QA. Allowed QA to make tests
+                  using reusable predefined methods without needing any
+                  programming experience.
+              - >-
+                  Performed weekly deploys to production environments for
+                  developers. Ensured code worked as expected and all changes
+                  were properly documented.
+              - Maintained scripts that automate the deployment process.
+        - position: Software Engineer Intern
+          employer: 'XPO Logistics, Inc.'
+          summary: ''
+          start: '2018-01-01'
+          end: '2018-06-01'
+          keywords: []
+          highlights:
+              - >-
+                  Developed a web app to automate the process of changing the
+                  weather alerts on the companies web page. Previously had to
+                  email desired changes to developers and then deploy those
+                  changes to production.
+        - position: Software QA Intern
+          employer: 'Janrain, Inc.'
+          summary: ''
+          start: '2017-07-01'
+          end: '2017-12-01'
+          keywords: []
+          highlights:
+              - >-
+                  Built tests for developers to promote test-driven
+                  development with Behave.
+              - Used the selenium framework to create tests for a web app.
 education:
-  - institution: "University of Texas - Austin"
-    area: "Electrical Engineering & Government"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2016-06-01"
-  - institution: "Universidad de Cantabria"
-    area: "Spanish"
-    studyType: "Exchange Student"
-    startDate: "2014-06-01"
-    endDate: "2014-12-01"
-  - institution: "YCombinator"
-    area: "Startup School"
-    studyType: "Founder"
-    startDate: "2018-07-30"
-    endDate: "2018-12-01"
-awards:
-  - title: "Startup School"
-    date: "2018-09-01"
-    awarder: "YCombinator"
-    summary: "Completed YCombinator's Startup School program on how to build a successful startup."
-publications:
-  - name: "How to Build In-Plants, a Mesh-Connected Soil Monitoring System"
-    publisher: "Particle"
-    releaseDate: "2019-05-06"
-    website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
-    summary: "Utilize the Internet of Things to watch over your house plants."
-  - name: "Playing with Yourself: The Power of Personal Projects"
-    publisher: "Hackernoon"
-    releaseDate: "2019-04-13"
-    website: "https://hackernoon.com/playing-with-yourself-the-power-of-personal-projects-206047344121"
-    summary: "How personal projects have changed my life and how you can get started making your own."
-  - name: "Powering Your E-Commerce Application with Image Classification"
-    publisher: "Medium"
-    releaseDate: "2018-11-07"
-    website: "https://stories.mlh.io/powering-your-e-commerce-application-with-image-classification-831558869a0d"
-    summary: "An introduction into using Clarifai's custom training imgae recognition platform."
-  - name: "Alexa, Attack Intruders"
-    publisher: "Hackaday"
-    releaseDate: "2018-05-08"
-    website: "https://hackaday.com/2018/05/08/alexa-attack-intruders/"
-    summary: "Designed an Alexa activated Nerf Turret home defense system."
+    level: ''
+    history:
+        - institution: Portland State University
+          start: '2016-09-01'
+          end: '2020-08-01'
+          grade: '3.73'
+          summary: ''
+          area: University Honors and Computer Science
+          studyType: Bachelor of Science
+          title: Bachelor of Science in University Honors and Computer Science
+service:
+    history: []
 skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-      - "Python"
-  - name: "Systems Engineering"
-    level: "Master"
-    keywords:
-      - "Electrical"
-      - "Mechanical"
-      - "OpenSCAD"
-      - "IoT"
-      - "Hardware"
-languages:
-  - language: "Python"
-    fluency: "Native speaker"
-  - language: "Javascript"
-    fluency: "Native speaker"
-  - language: "C++"
-    fluency: "full-professional-proficiency"
-  - language: "Assembly"
-    fluency: "professional-working-proficiency"
-  - language: "Spanish"
-    fluency: "limited-working-proficiency"
+    sets:
+        - name: Agile Development
+          level: Master
+          skills:
+              - Git
+              - JIRA
+              - Scrum
+        - name: Low Level Programming
+          level: Master
+          skills:
+              - C/C++
+              - x86 Assembly
+              - Baremetal Programming
+        - name: Functional Programming
+          level: Advanced
+          skills:
+              - Haskell
+              - Habit
+        - name: Data Science
+          level: Advanced
+          skills:
+              - Python
+              - Math
+              - Machine Learning
+        - name: Development Operations
+          level: Intermediate
+          skills:
+              - Terraform
+              - Jenkins
+              - AWS
+writing:
+    - title: >-
+          Functional Programming for Systems Software: Implementing Baremetal
+          Programs in Habit
+      publisher: University Honors Theses
+      url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
+      date: '2020-09-01'
+      summary: ''
+      highlights:
+          - Implemented a page table with context switching in C.
+          - Implemented part of a page table in a prototype of Habit.
+          - Enabled IA-32 paging and setup system calls in x86 Assembly
+recognition: []
 interests:
-  - name: "Cyber-Security"
-    keywords:
-      - "Physical Security"
-      - "Close Access Technology"
-  - name: "Internet of Things"
-    keywords:
-      - "Wireless Embeded Technology"
-      - "NFC"
-      - "4G-LTE"
-      - "5G"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.
+    - name: High Assurance Software
+      keywords:
+          - Software Verification
+          - Functional Programming
+languages:
+    - language: C/C++
+      fluency: Native or bilingual
+    - language: Python
+      fluency: Full professional
+    - language: Haskell
+      fluency: Professional working
+    - language: x86 Assembly
+      fluency: Professional working
