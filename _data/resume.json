@@ -142,7 +142,12 @@
       "publisher": "University Honors Theses",
       "releaseDate": "2020-09-01",
       "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
-      "summary": ""
+      "summary": "",
+      "highlights": [
+          "Implemented a page table with context switching in C.",
+          "Implemented part of a page table in a prototype of Habit.",
+          "Enabled IA-32 paging and setup system calls in x86 Assembly"
+      ]
     }
   ],
   "interests": [
