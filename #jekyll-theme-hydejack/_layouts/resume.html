@@ -28,10 +28,6 @@ layout: base
 
   {% unless page.no_buttons %}
     <div class="mt2 screen-only">
-      <button class="btn btn-sm btn-primary" onclick="window.print()">
-        <small class="icon-printer"></small>
-        {{ site.data.strings.print | default: "Print" }}
-      </button>
       {% assign pdf = site.static_files | find:"path", "/assets/Resume.pdf" %}
       {% if pdf %}
         <a href="{{ pdf.path | relative_url }}" class="btn btn-sm btn-primary" download>
@@ -39,6 +35,10 @@ layout: base
           {{ site.data.strings.resume.download_pdf | default: "PDF" }}
         </a>
       {% endif %}
+      <button class="btn btn-sm btn-primary" onclick="window.print()">
+        <small class="icon-printer"></small>
+        {{ site.data.strings.print | default: "Print" }}
+      </button>
       {% assign json = site.pages | find:"url", "/assets/resume.json" %}
       {% if json %}
       <a href="{{ json.path | relative_url }}" class="btn btn-sm btn-primary" download>
