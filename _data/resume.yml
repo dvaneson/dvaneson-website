@@ -6,14 +6,12 @@ info:
     label: Software Engineer and Researcher
     image: 'https://dvaneson.com/assets/icons/icon.png'
     brief: >-
-        I am a PSU alumni with a passion for learning, always finding new ways
-        to challenge myself. 
-        <br><br>
-        My interests include high assurance software, low level programming, and
-        data analysis. My honors thesis provides a case study of Habit, a
-        functional language designed for low level programming. 
-        <br><br>
-        To see some of my projects, visit https://dvaneson.com/projects
+        I am a PSU alumni with a passion for learning, and I am always finding
+        new ways to challenge myself.  <br><br> My interests include high
+        assurance software, low level programming, and data analysis. My honors
+        thesis provides a case study of Habit, a functional language designed
+        for low level programming.  <br><br> To see some of my projects, visit
+        https://dvaneson.com/projects
 contact:
     email: dvaneson@gmail.com
     phone: 971-400-3011
@@ -24,167 +22,143 @@ location:
     region: OR
     country: USA
 social:
-    -
-        label: LinkedIn
-        network: LinkedIn
-        url: 'https://www.linkedin.com/in/donovan-ellison-631825182'
-        user: Donovan Ellison
-    -
-        label: GitHub
-        network: GitHub
-        url: 'https://github.com/dvaneson'
-        user: dvaneson
+    - label: LinkedIn
+      network: LinkedIn
+      url: 'https://www.linkedin.com/in/donovan-ellison-631825182'
+      user: Donovan Ellison
+    - label: GitHub
+      network: GitHub
+      url: 'https://github.com/dvaneson'
+      user: dvaneson
 employment:
     history:
-        -
-            position: Computer Science Tutor
-            employer: Portland State University
-            summary: ''
-            start: '2019-10-01'
-            end: '2020-08-01'
-            keywords: []
-            highlights:
-                - Debugged students code in C, C++, Java, and x86 Assembly.
-                - Taught students how to use GDB.
-                - >-
-                    Explained Computer Science concepts such as data structures,
-                    discrete structures, and object oriented programming.
-        -
-            position: Software Engineer Intern
-            employer: Akamai Technologies
-            summary: ''
-            start: '2019-01-01'
-            end: '2019-06-01'
-            keywords: []
-            highlights:
-                - >-
-                    Developed and maintained a data pipeline through AWS to
-                    track user metrics.
-                - >-
-                    Used and maintained Terraform configurations for the
-                    deployment of non-production code.
-        -
-            position: DevOps Intern
-            employer: 'Comscore, Inc.'
-            summary: ''
-            start: '2018-07-01'
-            end: '2018-12-01'
-            keywords: []
-            highlights:
-                - >-
-                    Developed a testing framework for the QA team, allowing them
-                    to make tests using reusable predefined methods without
-                    needing any programming experience.
-                - >-
-                    Performed weekly deploys with Jenkins to production
-                    environments. Ensured code worked as expected and all
-                    changes were properly documented.
-                - Maintained Ruby scripts used for deployment.
-        -
-            position: Software Engineer Intern
-            employer: 'XPO Logistics, Inc.'
-            summary: ''
-            start: '2018-01-01'
-            end: '2018-06-01'
-            keywords: []
-            highlights:
-                - Developed a web app from scratch with React to automate
-                  weather alerts on the companies website.
-                - Managed an SQL database.
-                - Connected and made changes to the database with Java.
-        -
-            position: Software QA Intern
-            employer: 'Janrain, Inc.'
-            summary: ''
-            start: '2017-07-01'
-            end: '2017-12-01'
-            keywords: []
-            highlights:
-                - >-
-                    Wrote tests in Behave for features before they were
-                    implemented to promoste test-driven development.
-                - Used the Selenium framework to test the interface of a web
-                  app. 
+        - position: Computer Science Tutor
+          employer: Portland State University
+          summary: ''
+          start: '2019-10-01'
+          end: '2020-08-01'
+          keywords: []
+          highlights:
+              - Debugged students code in C, C++, Java, and x86 Assembly.
+              - Taught students how to use GDB.
+              - >-
+                  Explained Computer Science concepts such as data structures,
+                  discrete structures, and object oriented programming.
+        - position: Software Engineer Intern
+          employer: Akamai Technologies
+          summary: ''
+          start: '2019-01-01'
+          end: '2019-06-01'
+          keywords: []
+          highlights:
+              - Worked on an AWS data pipeline used for tracking user metrics.
+              - >-
+                  Maintained Terraform configurations for the deployment of
+                  non-production code.
+        - position: DevOps Intern
+          employer: 'Comscore, Inc.'
+          summary: ''
+          start: '2018-07-01'
+          end: '2018-12-01'
+          keywords: []
+          highlights:
+              - >-
+                  Worked on a testing framework for the QA team, allowing them
+                  to write tests without needing programming experience.
+              - >-
+                  Performed weekly deploys with Jenkins to production
+                  environments. Ensured code worked as expected and all changes
+                  were properly documented.
+              - Maintained Ruby scripts used for deployment.
+        - position: Software Engineer Intern
+          employer: 'XPO Logistics, Inc.'
+          summary: ''
+          start: '2018-01-01'
+          end: '2018-06-01'
+          keywords: []
+          highlights:
+              - Developed a web app from scratch with React to automate weather
+                alerts on the companies website.
+              - Managed an SQL database with Java.
+        - position: Software QA Intern
+          employer: 'Janrain, Inc.'
+          summary: ''
+          start: '2017-07-01'
+          end: '2017-12-01'
+          keywords: []
+          highlights:
+              - >-
+                  Wrote tests in Behave for user stories prior to implementation
+                  to promote test-driven development.
+              - Used the Selenium framework to test the interface of a web app.
 education:
     level: ''
     history:
-        -
-            institution: Portland State University
-            start: '2016-09-01'
-            end: '2020-08-01'
-            grade: '3.73'
-            summary: ''
-            area: University Honors and Computer Science
-            studyType: Bachelor of Science
-            title: Bachelor of Science in University Honors and Computer Science
+        - institution: Portland State University
+          start: '2016-09-01'
+          end: '2020-08-01'
+          grade: '3.73'
+          summary: ''
+          area: University Honors and Computer Science
+          studyType: Bachelor of Science
+          title: Bachelor of Science in University Honors and Computer Science
 service:
     history: []
 skills:
     sets:
-        -
-            name: Agile Development
-            level: Master
-            skills:
-                - Git
-                - JIRA
-                - Scrum
-        -
-            name: Low Level Programming
-            level: Master
-            skills:
-                - C/C++
-                - x86 Assembly
-                - Baremetal Programming
-        -
-            name: Functional Programming
-            level: Advanced
-            skills:
-                - Haskell
-                - Habit
-        -
-            name: Data Science
-            level: Advanced
-            skills:
-                - Python
-                - Math
-                - Machine Learning
-        -
-            name: Development Operations
-            level: Intermediate
-            skills:
-                - Terraform
-                - Jenkins
-                - AWS
+        - name: Agile Development
+          level: Master
+          skills:
+              - Git
+              - JIRA
+              - Scrum
+        - name: Low Level Programming
+          level: Master
+          skills:
+              - C/C++
+              - x86 Assembly
+              - Baremetal Programming
+        - name: Functional Programming
+          level: Advanced
+          skills:
+              - Haskell
+              - Habit
+        - name: Data Science
+          level: Advanced
+          skills:
+              - Python
+              - Math
+              - Machine Learning
+        - name: Development Operations
+          level: Intermediate
+          skills:
+              - Terraform
+              - Jenkins
+              - AWS
 writing:
-    -
-        title: >-
-            Functional Programming for Systems Software: Implementing Baremetal
-            Programs in Habit
-        publisher: University Honors Theses
-        url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
-        date: '2020-09-01'
-        summary: ''
-        highlights:
-            - Implemented a page table with context switching in C.
-            - Implemented part of a page table in a prototype of Habit.
-            - Enabled IA-32 paging and setup system calls in x86 Assembly
+    - title: >-
+          Functional Programming for Systems Software: Implementing Baremetal
+          Programs in Habit
+      publisher: University Honors Theses
+      url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
+      date: '2020-09-01'
+      summary: ''
+      highlights:
+          - Implemented a page table with context switching in C.
+          - Implemented part of a page table in a prototype of Habit.
+          - Enabled IA-32 paging and setup system calls in x86 Assembly
 recognition: []
 interests:
-    -
-        name: High Assurance Software
-        keywords:
-            - Software Verification
-            - Functional Programming
+    - name: High Assurance Software
+      keywords:
+          - Software Verification
+          - Functional Programming
 languages:
-    -
-        language: C/C++
-        fluency: Native or bilingual
-    -
-        language: Python
-        fluency: Full professional
-    -
-        language: Haskell
-        fluency: Professional working
-    -
-        language: x86 Assembly
-        fluency: Professional working
+    - language: C/C++
+      fluency: Native or bilingual
+    - language: Python
+      fluency: Full professional
+    - language: Haskell
+      fluency: Professional working
+    - language: x86 Assembly
+      fluency: Professional working

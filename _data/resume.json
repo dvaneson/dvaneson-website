@@ -6,7 +6,7 @@
     "website": "https://dvaneson.com",
     "other": [],
     "name": "Donovan Ellison",
-    "summary": "I am a PSU alumni with a passion for learning, always finding new ways to challenge myself.  <br><br> My interests include high assurance software, low level programming, and data analysis. My honors thesis provides a case study of Habit, a functional language designed for low level programming.  <br><br> To see some of my projects, visit https://dvaneson.com/projects",
+    "summary": "I am a PSU alumni with a passion for learning, and I am always finding new ways to challenge myself.  <br><br> My interests include high assurance software, low level programming, and data analysis. My honors thesis provides a case study of Habit, a functional language designed for low level programming.  <br><br> To see some of my projects, visit https://dvaneson.com/projects",
     "picture": "https://dvaneson.com/assets/icons/icon.png",
     "location": {
       "city": "Beaverton",
@@ -46,8 +46,8 @@
       "endDate": "2019-06-01",
       "summary": "",
       "highlights": [
-        "Developed and maintained a data pipeline through AWS to track user metrics.",
-        "Used and maintained Terraform configurations for the deployment of non-production code."
+        "Worked on an AWS data pipeline used for tracking user metrics.",
+        "Maintained Terraform configurations for the deployment of non-production code."
       ]
     },
     {
@@ -57,7 +57,7 @@
       "endDate": "2018-12-01",
       "summary": "",
       "highlights": [
-        "Developed a testing framework for the QA team, allowing them to make tests using reusable predefined methods without needing any programming experience.",
+        "Worked on a testing framework for the QA team, allowing them to write tests without needing programming experience.",
         "Performed weekly deploys with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.",
         "Maintained Ruby scripts used for deployment."
       ]
@@ -70,8 +70,7 @@
       "summary": "",
       "highlights": [
         "Developed a web app from scratch with React to automate weather alerts on the companies website.",
-        "Managed an SQL database.",
-        "Connected and made changes to the database with Java."
+        "Managed an SQL database with Java."
       ]
     },
     {
@@ -81,7 +80,7 @@
       "endDate": "2017-12-01",
       "summary": "",
       "highlights": [
-        "Wrote tests in Behave for features before they were developed to promoste test-driven development.",
+        "Wrote tests in Behave for user stories prior to implementation to promote test-driven development.",
         "Used the Selenium framework to test the interface of a web app."
       ]
     }
