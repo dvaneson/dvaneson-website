@@ -124,11 +124,11 @@ resume:
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
-  education_title:    '<!--study_type--> in <!--area--> <br> <em><!--institution--></em> <br> GPA: <!--gpa-->'
+  education_title:    '<!--study_type--> in <br> <!--area--> <br> <em><!--institution--></em> <br> GPA: <!--gpa-->'
   courses:             Courses
   awards:              Awards
   awards_title:        <!--title--> from <!--awarder-->
-  publications:        Publications
+  publications:        Thesis
   publications_title:  <!--name--> <br> <em><!--publisher--></em>
   references:          References
   languages:           Languages

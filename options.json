@@ -3,6 +3,16 @@
     "pdf": "weasyprint",
     "sectionTitles": {
       "employment": "Experience",
-      "writing": "Publications"
+      "writing": "Thesis"
+    },
+    "columns": {
+      "center": [
+        "education",
+        "writing",
+        "employment"
+      ],
+      "right": [
+        "skills"
+      ]
     }
 }
