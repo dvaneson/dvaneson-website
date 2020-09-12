@@ -8,6 +8,11 @@
     "name": "Donovan Ellison",
     "summary": "I am a PSU alumni with a passion for learning, always finding new ways to challenge myself. <br><br> My interests include high assurance software, low level programming, and data analysis. My honors thesis provides a case study of Habit, a functional language designed for low level programming.  <br><br> To see some of my projects, visit https://dvaneson.com/projects",
     "picture": "https://dvaneson.com/assets/icons/icon.png",
+    "location": {
+      "city": "Beaverton",
+      "countryCode": "USA",
+      "region": "OR"
+    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -144,9 +149,9 @@
       "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
       "summary": "",
       "highlights": [
-          "Implemented a page table with context switching in C.",
-          "Implemented part of a page table in a prototype of Habit.",
-          "Enabled IA-32 paging and setup system calls in x86 Assembly"
+        "Implemented a page table with context switching in C.",
+        "Implemented part of a page table in a prototype of Habit.",
+        "Enabled IA-32 paging and setup system calls in x86 Assembly"
       ]
     }
   ],

@@ -12,5 +12,6 @@ left_column:
     #  - references
 right_column:
     - skills
+    # - languages
     # - interests
 ---
