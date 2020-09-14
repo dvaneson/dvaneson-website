@@ -45,7 +45,7 @@
       "endDate": "2018-12-01",
       "summary": "",
       "highlights": [
-        "Worked on a testing framework for the QA team, allowing them to write tests without needing programming experience.",
+        "Improved a testing framework for the QA team in C#.",
         "Performed weekly deploys with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.",
         "Maintained Ruby scripts used for deployment."
       ]
@@ -57,7 +57,7 @@
       "endDate": "2018-06-01",
       "summary": "",
       "highlights": [
-        "Developed a web app from scratch with React to automate weather alerts on the companies website.",
+        "Designed and developed a web app from scratch with React.",
         "Managed an SQL database with Java."
       ]
     },
@@ -70,18 +70,6 @@
       "highlights": [
         "Wrote tests in Behave for user stories prior to implementation to promote test-driven development.",
         "Used the Selenium framework to test the interface of a web app."
-      ]
-    },
-    {
-      "company": "Portland State University",
-      "position": "Computer Science Tutor",
-      "startDate": "2019-10-01",
-      "endDate": "2020-08-01",
-      "summary": "",
-      "highlights": [
-        "Debugged students code in C, C++, Java, and x86 Assembly.",
-        "Taught students how to use GDB.",
-        "Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming."
       ]
     }
   ],
@@ -146,7 +134,7 @@
     {
       "name": "Functional Programming for Systems Software: Implementing Baremetal Programs in Habit",
       "publisher": "University Honors Theses",
-      "releaseDate": "2020-09-01",
+      "releaseDate": "2020-09-21",
       "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
       "summary": "",
       "highlights": [

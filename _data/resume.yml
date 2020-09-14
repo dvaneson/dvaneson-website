@@ -45,8 +45,7 @@ employment:
           keywords: []
           highlights:
               - >-
-                  Worked on a testing framework for the QA team, allowing them
-                  to write tests without needing programming experience.
+                  Improved a testing framework for the QA team in C#.
               - >-
                   Performed weekly deploys with Jenkins to production
                   environments. Ensured code worked as expected and all changes
@@ -59,8 +58,7 @@ employment:
           end: '2018-06-01'
           keywords: []
           highlights:
-              - Developed a web app from scratch with React to automate weather
-                alerts on the companies website.
+              - Designed and developed a web app from scratch with React.
               - Managed an SQL database with Java.
         - position: Software QA Intern
           employer: 'Janrain, Inc.'
@@ -73,18 +71,18 @@ employment:
                   Wrote tests in Behave for user stories prior to implementation
                   to promote test-driven development.
               - Used the Selenium framework to test the interface of a web app.
-        - position: Computer Science Tutor
-          employer: Portland State University
-          summary: ''
-          start: '2019-10-01'
-          end: '2020-08-01'
-          keywords: []
-          highlights:
-              - Debugged students code in C, C++, Java, and x86 Assembly.
-              - Taught students how to use GDB.
-              - >-
-                  Explained Computer Science concepts such as data structures,
-                  discrete structures, and object oriented programming.
+        # - position: Computer Science Tutor
+        #   employer: Portland State University
+        #   summary: ''
+        #   start: '2019-10-01'
+        #   end: '2020-08-01'
+        #   keywords: []
+        #   highlights:
+        #       - Debugged students code in C, C++, Java, and x86 Assembly.
+        #       - Taught students how to use GDB.
+        #       - >-
+        #           Explained Computer Science concepts such as data structures,
+        #           discrete structures, and object oriented programming.
 education:
     level: ''
     history:
@@ -128,12 +126,12 @@ writing:
           Programs in Habit
       publisher: University Honors Theses
       url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
-      date: '2020-09-01'
+      date: '2020-09-21'
       summary: ''
       highlights:
           - Implemented a page table with context switching in C.
           - Implemented part of a page table in a prototype of Habit.
-          - Enabled IA-32 paging and setup system calls in x86 Assembly
+          - Enabled IA-32 paging and setup system calls in x86 Assembly.
 recognition: []
 interests:
     - name: High Assurance Software
