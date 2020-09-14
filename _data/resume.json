@@ -109,10 +109,6 @@
       "keywords": []
     },
     {
-      "name": "Machine Learning",
-      "keywords": []
-    },
-    {
       "name": "S3",
       "keywords": []
     },
@@ -140,7 +136,7 @@
       "highlights": [
         "Implemented a page table with context switching in C.",
         "Implemented part of a page table in a prototype of Habit.",
-        "Enabled IA-32 paging and setup system calls in x86 Assembly"
+        "Enabled IA-32 paging and setup system calls in x86 Assembly."
       ]
     }
   ],

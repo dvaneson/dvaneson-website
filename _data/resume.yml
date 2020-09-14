@@ -110,8 +110,8 @@ skills:
           skills: []
         - name: Jenkins
           skills: []
-        - name: Machine Learning
-          skills: []
+        # - name: Machine Learning
+        #   skills: []
         - name: S3
           skills: []
         - name: Terraform
