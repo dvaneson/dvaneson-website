@@ -8,11 +8,16 @@ dvaneson:
     # Used at the bottom of each page and at the top of the `about` layout
     # Markdown enabled, can use multiple paragraphs (enabled by `|`)
     about: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        I am a PSU alumni with a passion for learning, and I am always finding
+        new ways to challenge myself.   
 
-        Open `_data/authors.yml` to edit this text.
+
+        My interests include high
+        assurance software, low level programming, and data analysis. My honors
+        thesis provides a case study of Habit, a functional language designed
+        for low level programming.  
+
+        To see some of my projects, visit <https://dvaneson.com/projects>
 
     # This photo will be used in the about section
     picture:
