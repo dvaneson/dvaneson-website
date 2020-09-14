@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Functional Programming for Systems Software
-date: 21 September 2020
+date: 14 September 2020
 image:
     path: /assets/img/projects/honors-thesis.png
 caption: Implementing Baremetal Programs in Habit

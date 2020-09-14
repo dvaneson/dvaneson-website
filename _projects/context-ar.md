@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Context AR
-date: 14 August 2020
+date: 16 August 2020
 image:
     path: /assets/img/projects/context-ar.png
 caption: An experiential learning app.
