@@ -12,7 +12,7 @@ url: https://dvaneson.com
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl: ""
+baseurl: ''
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -26,8 +26,9 @@ title: Donovan Ellison
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description: I am graduate from Portland State University with a Bachelor of
-    Science in University Honors and Computer Science.
+description:
+    I am graduate from Portland State University with a Bachelor of Science in
+    University Honors and Computer Science.
 
 # A shorter description for the sidebar.
 tagline: Software Engineer and Researcher
@@ -70,7 +71,6 @@ copyright: © 2020. All rights reserved.
 
 # Format of the permalinks
 permalink: /:categories/:year-:month-:day-:title/
-
 
 # Collections
 # ----------------------------------------------------------------------------------------
@@ -163,7 +163,7 @@ defaults:
 kramdown:
     math_engine: katex
     math_engine_opts: {}
-    footnote_backlink: "&#x21a9;&#xfe0e;"
+    footnote_backlink: '&#x21a9;&#xfe0e;'
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
@@ -350,11 +350,11 @@ relative_links:
     collections: true
 
 titles_from_headings:
-    strip_title: true
-    collections: true
+    strip_title: false
+    collections: false
 
 compress_html:
-    comments: ["<!-- ", " -->"]
+    comments: ['<!-- ', ' -->']
     clippings: all
     endings: all
     ignore:
@@ -371,22 +371,22 @@ jekyll_compose:
         drafts:
             layout: post
             description: >
-                A short ~160 character description of your post for search engines,
-                social media previews, etc.
+                A short ~160 character description of your post for search
+                engines, social media previews, etc.
             image:
                 path: /assets/img/sidebar-bg.jpg
         posts:
             layout: post
             description: >
-                A short ~160 character description of your post for search engines,
-                social media previews, etc.
+                A short ~160 character description of your post for search
+                engines, social media previews, etc.
             image:
                 path: /assets/img/sidebar-bg.jpg
         projects:
             layout: project
             description: >
-                A short ~160 character description of your post for search engines,
-                social media previews, etc.
+                A short ~160 character description of your post for search
+                engines, social media previews, etc.
             image:
                 path: /assets/img/sidebar-bg.jpg
             links:

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Functional Programming for Systems Software
-date: 15 August 2020
+date: 21 September 2020
 image:
     path: /assets/img/projects/honors-thesis.png
 caption: Implementing Baremetal Programs in Habit
@@ -15,8 +15,6 @@ links:
       url: https://github.com/dvaneson/paging-lc
 featured: false
 ---
-
-# Functional Programming for Systems Software
 
 ## Summary
 

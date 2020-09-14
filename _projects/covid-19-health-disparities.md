@@ -17,8 +17,6 @@ links:
 featured: false
 ---
 
-# Covid-19 Health Disparities
-
 ## Graph
 
 {% include tableau-embed.html %}
