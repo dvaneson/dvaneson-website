@@ -100,29 +100,27 @@ service:
     history: []
 skills:
     sets:
-        - name: Git
-          skills: []
-        - name: JIRA
-          skills: []
         - name: C/C++
           skills: []
-        - name: x86 Assembly
+        - name: EC2
+          skills: []
+        - name: Git
           skills: []
         - name: Haskell
           skills: []
-        - name: Python
-          skills: []
-        - name: NumPy
-          skills: []
-        - name: Terraform
+        - name: JIRA
           skills: []
         - name: Jenkins
           skills: []
-        - name: AWS EC2
-          skills: []
-        - name: AWS S3
-          skills: []
         - name: Machine Learning
+          skills: []
+        - name: S3
+          skills: []
+        - name: Terraform
+          skills: []
+        - name: Python
+          skills: []
+        - name: x86 Assembly
           skills: []
 writing:
     - title: >-

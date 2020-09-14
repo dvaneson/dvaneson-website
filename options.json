@@ -6,7 +6,6 @@
         "writing": "Thesis"
     },
     "columns": {
-        "center": ["education", "writing", "employment"],
-        "right": ["skills"]
+        "center": ["education", "writing", "employment", "skills"]
     }
 }

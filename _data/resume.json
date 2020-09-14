@@ -97,19 +97,15 @@
   ],
   "skills": [
     {
-      "name": "Git",
-      "keywords": []
-    },
-    {
-      "name": "JIRA",
-      "keywords": []
-    },
-    {
       "name": "C/C++",
       "keywords": []
     },
     {
-      "name": "x86 Assembly",
+      "name": "EC2",
+      "keywords": []
+    },
+    {
+      "name": "Git",
       "keywords": []
     },
     {
@@ -117,15 +113,7 @@
       "keywords": []
     },
     {
-      "name": "Python",
-      "keywords": []
-    },
-    {
-      "name": "NumPy",
-      "keywords": []
-    },
-    {
-      "name": "Terraform",
+      "name": "JIRA",
       "keywords": []
     },
     {
@@ -133,15 +121,23 @@
       "keywords": []
     },
     {
-      "name": "AWS EC2",
-      "keywords": []
-    },
-    {
-      "name": "AWS S3",
-      "keywords": []
-    },
-    {
       "name": "Machine Learning",
+      "keywords": []
+    },
+    {
+      "name": "S3",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "keywords": []
+    },
+    {
+      "name": "x86 Assembly",
       "keywords": []
     }
   ],
