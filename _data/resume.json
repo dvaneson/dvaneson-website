@@ -6,8 +6,8 @@
     "website": "https://dvaneson.com",
     "other": [],
     "name": "Donovan Ellison",
-    "summary": "I am a PSU alumni with a passion for learning, and I am always finding new ways to challenge myself.  <br><br> My interests include high assurance software, low level programming, and data analysis. My honors thesis provides a case study of Habit, a functional language designed for low level programming.  <br><br> To see some of my projects, visit https://dvaneson.com/projects",
-    "picture": "https://dvaneson.com/assets/icons/icon.png",
+    "summary": "",
+    "picture": "",
     "location": {
       "city": "Beaverton",
       "countryCode": "USA",
@@ -27,18 +27,6 @@
     ]
   },
   "work": [
-    {
-      "company": "Portland State University",
-      "position": "Computer Science Tutor",
-      "startDate": "2019-10-01",
-      "endDate": "2020-08-01",
-      "summary": "",
-      "highlights": [
-        "Debugged students code in C, C++, Java, and x86 Assembly.",
-        "Taught students how to use GDB.",
-        "Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming."
-      ]
-    },
     {
       "company": "Akamai Technologies",
       "position": "Software Engineer Intern",
@@ -83,6 +71,18 @@
         "Wrote tests in Behave for user stories prior to implementation to promote test-driven development.",
         "Used the Selenium framework to test the interface of a web app."
       ]
+    },
+    {
+      "company": "Portland State University",
+      "position": "Computer Science Tutor",
+      "startDate": "2019-10-01",
+      "endDate": "2020-08-01",
+      "summary": "",
+      "highlights": [
+        "Debugged students code in C, C++, Java, and x86 Assembly.",
+        "Taught students how to use GDB.",
+        "Explained Computer Science concepts such as data structures, discrete structures, and object oriented programming."
+      ]
     }
   ],
   "education": [
@@ -91,54 +91,58 @@
       "gpa": "3.73",
       "startDate": "2016-09-01",
       "endDate": "2020-08-01",
-      "area": "University Honors and Computer Science",
+      "area": "Computer Science, University Honors",
       "studyType": "Bachelor of Science"
     }
   ],
   "skills": [
     {
-      "name": "Agile Development",
-      "level": "Master",
-      "keywords": [
-        "Git",
-        "JIRA",
-        "Scrum"
-      ]
+      "name": "Git",
+      "keywords": []
     },
     {
-      "name": "Low Level Programming",
-      "level": "Master",
-      "keywords": [
-        "C/C++",
-        "x86 Assembly",
-        "Baremetal Programming"
-      ]
+      "name": "JIRA",
+      "keywords": []
     },
     {
-      "name": "Functional Programming",
-      "level": "Advanced",
-      "keywords": [
-        "Haskell",
-        "Habit"
-      ]
+      "name": "C/C++",
+      "keywords": []
     },
     {
-      "name": "Data Science",
-      "level": "Advanced",
-      "keywords": [
-        "Python",
-        "Math",
-        "Machine Learning"
-      ]
+      "name": "x86 Assembly",
+      "keywords": []
     },
     {
-      "name": "Development Operations",
-      "level": "Intermediate",
-      "keywords": [
-        "Terraform",
-        "Jenkins",
-        "AWS"
-      ]
+      "name": "Haskell",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "keywords": []
+    },
+    {
+      "name": "NumPy",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "keywords": []
+    },
+    {
+      "name": "AWS EC2",
+      "keywords": []
+    },
+    {
+      "name": "AWS S3",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": []
     }
   ],
   "volunteer": [],

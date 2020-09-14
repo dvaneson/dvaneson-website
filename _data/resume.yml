@@ -4,14 +4,8 @@ meta:
 name: Donovan Ellison
 info:
     label: Software Engineer and Researcher
-    image: 'https://dvaneson.com/assets/icons/icon.png'
-    brief: >-
-        I am a PSU alumni with a passion for learning, and I am always finding
-        new ways to challenge myself.  <br><br> My interests include high
-        assurance software, low level programming, and data analysis. My honors
-        thesis provides a case study of Habit, a functional language designed
-        for low level programming.  <br><br> To see some of my projects, visit
-        https://dvaneson.com/projects
+    image: ''
+    brief: ''
 contact:
     email: dvaneson@gmail.com
     phone: 971-400-3011
@@ -32,18 +26,6 @@ social:
       user: dvaneson
 employment:
     history:
-        - position: Computer Science Tutor
-          employer: Portland State University
-          summary: ''
-          start: '2019-10-01'
-          end: '2020-08-01'
-          keywords: []
-          highlights:
-              - Debugged students code in C, C++, Java, and x86 Assembly.
-              - Taught students how to use GDB.
-              - >-
-                  Explained Computer Science concepts such as data structures,
-                  discrete structures, and object oriented programming.
         - position: Software Engineer Intern
           employer: Akamai Technologies
           summary: ''
@@ -91,6 +73,18 @@ employment:
                   Wrote tests in Behave for user stories prior to implementation
                   to promote test-driven development.
               - Used the Selenium framework to test the interface of a web app.
+        - position: Computer Science Tutor
+          employer: Portland State University
+          summary: ''
+          start: '2019-10-01'
+          end: '2020-08-01'
+          keywords: []
+          highlights:
+              - Debugged students code in C, C++, Java, and x86 Assembly.
+              - Taught students how to use GDB.
+              - >-
+                  Explained Computer Science concepts such as data structures,
+                  discrete structures, and object oriented programming.
 education:
     level: ''
     history:
@@ -99,42 +93,37 @@ education:
           end: '2020-08-01'
           grade: '3.73'
           summary: ''
-          area: University Honors and Computer Science
+          area: Computer Science, University Honors
           studyType: Bachelor of Science
           title: Bachelor of Science in University Honors and Computer Science
 service:
     history: []
 skills:
     sets:
-        - name: Agile Development
-          level: Master
-          skills:
-              - Git
-              - JIRA
-              - Scrum
-        - name: Low Level Programming
-          level: Master
-          skills:
-              - C/C++
-              - x86 Assembly
-              - Baremetal Programming
-        - name: Functional Programming
-          level: Advanced
-          skills:
-              - Haskell
-              - Habit
-        - name: Data Science
-          level: Advanced
-          skills:
-              - Python
-              - Math
-              - Machine Learning
-        - name: Development Operations
-          level: Intermediate
-          skills:
-              - Terraform
-              - Jenkins
-              - AWS
+        - name: Git
+          skills: []
+        - name: JIRA
+          skills: []
+        - name: C/C++
+          skills: []
+        - name: x86 Assembly
+          skills: []
+        - name: Haskell
+          skills: []
+        - name: Python
+          skills: []
+        - name: NumPy
+          skills: []
+        - name: Terraform
+          skills: []
+        - name: Jenkins
+          skills: []
+        - name: AWS EC2
+          skills: []
+        - name: AWS S3
+          skills: []
+        - name: Machine Learning
+          skills: []
 writing:
     - title: >-
           Functional Programming for Systems Software: Implementing Baremetal

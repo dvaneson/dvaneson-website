@@ -2,17 +2,11 @@
     "theme": "../fresh-themes/themes/classic",
     "pdf": "weasyprint",
     "sectionTitles": {
-      "employment": "Experience",
-      "writing": "Thesis"
+        "employment": "Experience",
+        "writing": "Thesis"
     },
     "columns": {
-      "center": [
-        "education",
-        "writing",
-        "employment"
-      ],
-      "right": [
-        "skills"
-      ]
+        "center": ["education", "writing", "employment"],
+        "right": ["skills"]
     }
 }
