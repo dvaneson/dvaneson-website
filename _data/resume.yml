@@ -26,6 +26,18 @@ social:
       user: dvaneson
 employment:
     history:
+        - position: Computer Science Tutor
+          employer: Portland State University
+          summary: ''
+          start: '2019-10-01'
+          end: '2020-08-01'
+          keywords: []
+          highlights:
+              - Debugged students code in C, C++, Java, and x86 Assembly.
+              - Taught students how to use GDB.
+              # - >-
+              #     Explained Computer Science concepts such as data structures,
+              #     discrete structures, and object oriented programming.
         - position: Software Engineer Intern
           employer: Akamai Technologies
           summary: ''
@@ -71,18 +83,6 @@ employment:
                   Wrote tests in Behave for user stories prior to implementation
                   to promote test-driven development.
               - Used the Selenium framework to test the interface of a web app.
-        # - position: Computer Science Tutor
-        #   employer: Portland State University
-        #   summary: ''
-        #   start: '2019-10-01'
-        #   end: '2020-08-01'
-        #   keywords: []
-        #   highlights:
-        #       - Debugged students code in C, C++, Java, and x86 Assembly.
-        #       - Taught students how to use GDB.
-        #       - >-
-        #           Explained Computer Science concepts such as data structures,
-        #           discrete structures, and object oriented programming.
 education:
     level: ''
     history:
@@ -98,52 +98,39 @@ service:
     history: []
 skills:
     sets:
-        - name: C/C++
-          skills: []
-        - name: EC2
-          skills: []
-        - name: Git
-          skills: []
-        - name: Haskell
-          skills: []
-        - name: JIRA
-          skills: []
-        - name: Jenkins
-          skills: []
-        # - name: Machine Learning
-        #   skills: []
-        - name: S3
-          skills: []
-        - name: Terraform
-          skills: []
-        - name: Python
-          skills: []
-        - name: x86 Assembly
-          skills: []
+        - name: Programming
+          skills:
+              - C/C++
+              # - 'C#'
+              - Haskell
+              # - Java
+              - Python
+              - x86 Assembly
+        - name: Technologies
+          skills:
+              - EC2
+              - GDB
+              - Git
+              - JIRA
+              - Jenkins
+              - S3
+              - Selenium
+              - Terraform
 writing:
     - title: >-
-          Functional Programming for Systems Software: Implementing Baremetal
-          Programs in Habit
+          Functional Programming for Systems Software
       publisher: University Honors Theses
       url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
       date: '2020-09-21'
-      summary: ''
+      summary: >
+          Habit is a functional language specially designed for low-level
+          programming. Habit aims to have the reliability and readability of a
+          high level language, while offering the memory management and
+          efficiency of languages like C. In this thesis I provide a case study
+          of Habit and discuss if it meets these goals.
       highlights:
-          - Implemented a page table with context switching in C.
-          - Implemented part of a page table in a prototype of Habit.
+          - Implemented a page table in C and a prototype of Habit.
           - Enabled IA-32 paging and setup system calls in x86 Assembly.
 recognition: []
-interests:
-    - name: High Assurance Software
-      keywords:
-          - Software Verification
-          - Functional Programming
-languages:
-    - language: C/C++
-      fluency: Native or bilingual
-    - language: Python
-      fluency: Full professional
-    - language: Haskell
-      fluency: Professional working
-    - language: x86 Assembly
-      fluency: Professional working
+interests: []
+languages: []

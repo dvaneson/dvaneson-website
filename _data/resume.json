@@ -28,6 +28,17 @@
   },
   "work": [
     {
+      "company": "Portland State University",
+      "position": "Computer Science Tutor",
+      "startDate": "2019-10-01",
+      "endDate": "2020-08-01",
+      "summary": "",
+      "highlights": [
+        "Debugged students code in C, C++, Java, and x86 Assembly.",
+        "Taught students how to use GDB."
+      ]
+    },
+    {
       "company": "Akamai Technologies",
       "position": "Software Engineer Intern",
       "startDate": "2019-01-01",
@@ -85,86 +96,42 @@
   ],
   "skills": [
     {
-      "name": "C/C++",
-      "keywords": []
+      "name": "Programming",
+      "keywords": [
+        "C/C++",
+        "Haskell",
+        "Python",
+        "x86 Assembly"
+      ]
     },
     {
-      "name": "EC2",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "keywords": []
-    },
-    {
-      "name": "Haskell",
-      "keywords": []
-    },
-    {
-      "name": "JIRA",
-      "keywords": []
-    },
-    {
-      "name": "Jenkins",
-      "keywords": []
-    },
-    {
-      "name": "S3",
-      "keywords": []
-    },
-    {
-      "name": "Terraform",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "keywords": []
-    },
-    {
-      "name": "x86 Assembly",
-      "keywords": []
+      "name": "Technologies",
+      "keywords": [
+        "EC2",
+        "GDB",
+        "Git",
+        "JIRA",
+        "Jenkins",
+        "S3",
+        "Selenium",
+        "Terraform"
+      ]
     }
   ],
   "volunteer": [],
   "publications": [
     {
-      "name": "Functional Programming for Systems Software: Implementing Baremetal Programs in Habit",
+      "name": "Functional Programming for Systems Software",
       "publisher": "University Honors Theses",
       "releaseDate": "2020-09-21",
       "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
-      "summary": "",
+      "summary": "Habit is a functional language specially designed for low-level programming. Habit aims to have the reliability and readability of a high level language, while offering the memory management and efficiency of languages like C. In this thesis I provide a case study of Habit and discuss if it meets these goals.\n",
       "highlights": [
-        "Implemented a page table with context switching in C.",
-        "Implemented part of a page table in a prototype of Habit.",
+        "Implemented a page table in C and a prototype of Habit.",
         "Enabled IA-32 paging and setup system calls in x86 Assembly."
       ]
     }
   ],
-  "interests": [
-    {
-      "name": "High Assurance Software",
-      "keywords": [
-        "Software Verification",
-        "Functional Programming"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "C/C++",
-      "fluency": "Native or bilingual"
-    },
-    {
-      "language": "Python",
-      "fluency": "Full professional"
-    },
-    {
-      "language": "Haskell",
-      "fluency": "Professional working"
-    },
-    {
-      "language": "x86 Assembly",
-      "fluency": "Professional working"
-    }
-  ]
+  "interests": [],
+  "languages": []
 }
