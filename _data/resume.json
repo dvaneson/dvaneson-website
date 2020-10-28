@@ -125,7 +125,7 @@
       "publisher": "University Honors Theses",
       "releaseDate": "2020-09-21",
       "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
-      "summary": "Habit is a functional language specially designed for low-level programming. Habit aims to have the reliability and readability of a high level language, while offering the memory management and efficiency of languages like C. In this thesis I provide a case study of Habit and discuss if it meets these goals.\n",
+      "summary": "Habit is a functional language specially designed for low-level programming. Habit aims to have the reliability and readability of a high-level language, while offering the memory management and efficiency of languages like C. In this thesis I provide a case study of Habit and discuss if it meets these goals.\n",
       "highlights": [
         "Implemented a page table in C and a prototype of Habit.",
         "Enabled IA-32 paging and setup system calls in x86 Assembly."

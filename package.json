@@ -1,22 +1,22 @@
 {
-  "name": "dvaneson-website",
-  "version": "1.0.0",
-  "description": "A personal website to showcase some of my past projects and resume.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "npm run resume && jekyll serve bundle exec",
-    "resume": "npm run build_resume && npm run convert_resume",
-    "build_resume": "hackmyresume BUILD _data/resume.yml TO assets/Resume.pdf -o options.json",
-    "convert_resume": "hackmyresume CONVERT _data/resume.yml TO _data/resume.json"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dvaneson/dvaneson-website.git"
-  },
-  "author": "Donovan Ellison",
-  "license": "GNU General Public License",
-  "bugs": {
-    "url": "https://github.com/dvaneson/dvaneson-website/issues"
-  },
-  "homepage": "https://dvaneson.com"
+    "name": "dvaneson-website",
+    "version": "1.0.0",
+    "description": "A personal website to showcase some of my past projects and resume.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "npm run resume && jekyll serve bundle exec",
+        "resume": "npm run build_resume && npm run convert_resume",
+        "build_resume": "hackmyresume BUILD _data/resume.yml TO assets/Resume.pdf assets/Resume.doc -o options.json",
+        "convert_resume": "hackmyresume CONVERT _data/resume.yml TO _data/resume.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dvaneson/dvaneson-website.git"
+    },
+    "author": "Donovan Ellison",
+    "license": "GNU General Public License",
+    "bugs": {
+        "url": "https://github.com/dvaneson/dvaneson-website/issues"
+    },
+    "homepage": "https://dvaneson.com"
 }

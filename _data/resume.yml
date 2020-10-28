@@ -94,8 +94,6 @@ education:
           area: Computer Science, University Honors
           studyType: Bachelor of Science
           title: Bachelor of Science in University Honors and Computer Science
-service:
-    history: []
 skills:
     sets:
         - name: Programming
@@ -125,12 +123,14 @@ writing:
       summary: >
           Habit is a functional language specially designed for low-level
           programming. Habit aims to have the reliability and readability of a
-          high level language, while offering the memory management and
+          high-level language, while offering the memory management and
           efficiency of languages like C. In this thesis I provide a case study
           of Habit and discuss if it meets these goals.
       highlights:
           - Implemented a page table in C and a prototype of Habit.
           - Enabled IA-32 paging and setup system calls in x86 Assembly.
+service:
+    history: []
 recognition: []
 interests: []
 languages: []
