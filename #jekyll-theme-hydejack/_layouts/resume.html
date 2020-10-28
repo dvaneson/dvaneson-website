@@ -35,6 +35,13 @@ layout: base
           {{ site.data.strings.resume.download_pdf | default: "PDF" }}
         </a>
       {% endif %}
+      {% assign doc = site.static_files | find:"path", "/assets/Resume.doc" %}
+      {% if pdf %}
+        <a href="{{ doc.path | relative_url }}" class="btn btn-sm btn-primary" download>
+          <small class="icon-file-empty"></small>
+          {{ site.data.strings.resume.download_doc | default: "DOCX" }}
+        </a>
+      {% endif %}
       <button class="btn btn-sm btn-primary" onclick="window.print()">
         <small class="icon-printer"></small>
         {{ site.data.strings.print | default: "Print" }}

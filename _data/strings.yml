@@ -140,6 +140,7 @@ resume:
   keywords:            Keywords
   print:               Print
   download_pdf:        PDF
+  download_doc:        DOCX
   download_vcf:        vCard
   download_json:       JSON
   icons:
