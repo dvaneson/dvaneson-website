@@ -620,7 +620,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Developed React components for the Context AR web app.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Developed React components for Context AR, a web app for experiential learning.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -632,7 +632,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into MongoDB Stitch rules.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into two MongoDB collections.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -656,7 +656,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Set up a Jira Kanban board, authored tickets for each component, and directed stand-ups.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Set up a Jira Kanban board, authored tickets for each view, and directed stand-ups.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -876,7 +876,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Performed weekly deploys with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
