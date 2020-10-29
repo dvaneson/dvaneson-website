@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-29T08:45:00.478Z"
+    "lastModified": "2020-10-29T08:55:03.613Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -60,7 +60,7 @@
       "summary": "",
       "highlights": [
         "Refined a testing framework for the QA team in C#.",
-        "Performed deploys once a week with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.",
+        "Performed deploys once a week with Jenkins to production environments.",
         "Maintained Ruby scripts used for deployment."
       ]
     },

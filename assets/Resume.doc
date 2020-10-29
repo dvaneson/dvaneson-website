@@ -876,7 +876,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
