@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-29T08:14:44.171Z"
+    "lastModified": "2020-10-29T08:45:00.478Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -38,7 +38,7 @@
       "summary": "",
       "highlights": [
         "Debugged students code in C, C++, Java, and x86 Assembly.",
-        "Taught students how to use GDB."
+        "Taught students about data structures, object oriented programming, and program design."
       ]
     },
     {
@@ -49,7 +49,7 @@
       "summary": "",
       "highlights": [
         "Configured and deployed EC2 instances with Terraform.",
-        "Wrote to, read from, and monitored Kinesis streams."
+        "Wrote to, read from, and monitored Kinesis streams used to process user data."
       ]
     },
     {
@@ -60,7 +60,7 @@
       "summary": "",
       "highlights": [
         "Refined a testing framework for the QA team in C#.",
-        "Performed deploys once a week with Jenkins to production environments.",
+        "Performed deploys once a week with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.",
         "Maintained Ruby scripts used for deployment."
       ]
     },
@@ -71,9 +71,8 @@
       "endDate": "2018-06-01",
       "summary": "",
       "highlights": [
-        "Designed and coded a web app from scratch with React.",
-        "Reduced the time taken to change weather alerts from an hour or more down to a few minutes.",
-        "Managed an SQL database with Java."
+        "Designed and coded a web app from scratch with React, Java, and SQL.",
+        "Reduced the time taken to change weather alerts from an hour or more down to a few minutes."
       ]
     },
     {
@@ -103,7 +102,7 @@
       "name": "Functional Programming for Systems Software",
       "description": "",
       "highlights": [
-        "Publicized an evaluation of Habit, an experimental functional language for low-level programming.",
+        "Published an assessment of Habit, an experimental functional language for low-level programming.",
         "Compared Habit with C by implementing a page table in both languages.",
         "Used x86 Assembly to enable IA-32 paging and setup system calls."
       ],

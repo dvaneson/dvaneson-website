@@ -33,7 +33,7 @@ projects:
       end: '2020-08-21'
       summary: ''
       highlights:
-          - Publicized an evaluation of Habit, an experimental functional
+          - Published an assessment of Habit, an experimental functional
             language for low-level programming.
           - Compared Habit with C by implementing a page table in both
             languages.
@@ -63,7 +63,8 @@ employment:
           keywords: []
           highlights:
               - Debugged students code in C, C++, Java, and x86 Assembly.
-              - Taught students how to use GDB.
+              - Taught students about data structures, object oriented
+                programming, and program design.
         - position: Software Engineer Intern
           employer: Akamai Technologies
           summary: ''
@@ -72,7 +73,8 @@ employment:
           keywords: []
           highlights:
               - Configured and deployed EC2 instances with Terraform.
-              - Wrote to, read from, and monitored Kinesis streams.
+              - Wrote to, read from, and monitored Kinesis streams used to
+                process user data.
         - position: DevOps Intern
           employer: 'Comscore, Inc.'
           summary: ''
@@ -82,7 +84,8 @@ employment:
           highlights:
               - Refined a testing framework for the QA team in C#.
               - Performed deploys once a week with Jenkins to production
-                environments.
+                environments. Ensured code worked as expected and all changes
+                were properly documented.
               - Maintained Ruby scripts used for deployment.
         - position: Software Engineer Intern
           employer: 'XPO Logistics, Inc.'
@@ -91,10 +94,10 @@ employment:
           end: '2018-06-01'
           keywords: []
           highlights:
-              - Designed and coded a web app from scratch with React.
+              - Designed and coded a web app from scratch with React, Java, and
+                SQL.
               - Reduced the time taken to change weather alerts from an hour or
                 more down to a few minutes.
-              - Managed an SQL database with Java.
         - position: Software QA Intern
           employer: 'Janrain, Inc.'
           summary: ''
