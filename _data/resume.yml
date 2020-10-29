@@ -33,8 +33,8 @@ projects:
       end: '2020-08-21'
       summary: ''
       highlights:
-          - Publicized and presented a case study of Habit, an experimental
-            functional language for low-level programming.
+          - Publicized an evaluation of Habit, an experimental functional
+            language for low-level programming.
           - Compared Habit with C by implementing a page table in both
             languages.
           - Used x86 Assembly to enable IA-32 paging and setup system calls.
@@ -47,7 +47,7 @@ projects:
             collections.
           - Coordinated the design of 16 views and tracked development progress
             with a wireframe.
-          - Set up a Jira Kanban board, authored tickets for each view, and
+          - Organized a Jira Kanban board, authored tickets for each view, and
             directed stand-ups.
       start: '2020-04-01'
       end: '2020-08-21'
@@ -71,10 +71,8 @@ employment:
           end: '2019-06-01'
           keywords: []
           highlights:
-              - Worked on an AWS data pipeline used for tracking user metrics.
-              - >-
-                  Maintained Terraform configurations for the deployment of
-                  non-production code.
+              - Configured and deployed EC2 instances with Terraform.
+              - Wrote to, read from, and monitored Kinesis streams.
         - position: DevOps Intern
           employer: 'Comscore, Inc.'
           summary: ''
@@ -82,12 +80,9 @@ employment:
           end: '2018-12-01'
           keywords: []
           highlights:
-              - >-
-                  Improved a testing framework for the QA team in C#.
-              - >-
-                  Performed deploys once a week with Jenkins to production
-                  environments. Ensured code worked as expected and all changes
-                  were properly documented.
+              - Refined a testing framework for the QA team in C#.
+              - Performed deploys once a week with Jenkins to production
+                environments.
               - Maintained Ruby scripts used for deployment.
         - position: Software Engineer Intern
           employer: 'XPO Logistics, Inc.'
@@ -96,7 +91,9 @@ employment:
           end: '2018-06-01'
           keywords: []
           highlights:
-              - Designed and developed a web app from scratch with React.
+              - Designed and coded a web app from scratch with React.
+              - Reduced the time taken to change weather alerts from an hour or
+                more down to a few minutes.
               - Managed an SQL database with Java.
         - position: Software QA Intern
           employer: 'Janrain, Inc.'
@@ -105,10 +102,9 @@ employment:
           end: '2017-12-01'
           keywords: []
           highlights:
-              - >-
-                  Wrote tests in Behave for user stories prior to implementation
-                  to promote test-driven development.
-              - Used the Selenium framework to test the interface of a web app.
+              - Expanded Behave tests prior to implementation to promote
+                test-driven development.
+              - Tested the interface of a web app with Selenium.
 education:
     level: ''
     history:

@@ -550,7 +550,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Publicized and presented a case study of Habit, an experimental functional language for low-level programming.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Publicized an evaluation of Habit, an experimental functional language for low-level programming.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -656,7 +656,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Set up a Jira Kanban board, authored tickets for each view, and directed stand-ups.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Organized a Jira Kanban board, authored tickets for each view, and directed stand-ups.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -792,7 +792,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Worked on an AWS data pipeline used for tracking user metrics.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Configured and deployed EC2 instances with Terraform.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -807,7 +807,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Maintained Terraform configurations for the deployment of non-production code.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Wrote to, read from, and monitored Kinesis streams.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -861,7 +861,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Improved a testing framework for the QA team in C#.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Refined a testing framework for the QA team in C#.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -876,7 +876,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments. Ensured code worked as expected and all changes were properly documented.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -945,7 +945,22 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Designed and developed a web app from scratch with React.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Designed and coded a web app from scratch with React.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Reduced the time taken to change weather alerts from an hour or more down to a few minutes.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -1014,7 +1029,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Wrote tests in Behave for user stories prior to implementation to promote test-driven development.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Expanded Behave tests prior to implementation to promote test-driven development.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -1029,7 +1044,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Used the Selenium framework to test the interface of a web app.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Tested the interface of a web app with Selenium.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
