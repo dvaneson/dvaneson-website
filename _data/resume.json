@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-28T23:59:23.686Z"
+    "lastModified": "2020-10-29T06:16:32.766Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -30,17 +30,6 @@
     ]
   },
   "work": [
-    {
-      "company": "Portland State University",
-      "position": "Computer Science Tutor",
-      "startDate": "2019-10-01",
-      "endDate": "2020-08-01",
-      "summary": "",
-      "highlights": [
-        "Debugged students code in C, C++, Java, and x86 Assembly.",
-        "Taught students how to use GDB."
-      ]
-    },
     {
       "company": "Akamai Technologies",
       "position": "Software Engineer Intern",
@@ -99,17 +88,34 @@
   ],
   "projects": [
     {
+      "name": "Functional Programming for Systems Software",
+      "description": "",
+      "highlights": [
+        "Presented and publicized a case study of Habit, an experimental functional language for low-level programming.",
+        "Compared Habit with C by implementing a page table in both languages.",
+        "Used x86 Assembly to enable IA-32 paging and setup system calls."
+      ],
+      "startDate": "2020-04-01",
+      "endDate": "2020-09-21",
+      "url": "https://pdxscholar.library.pdx.edu/honorstheses/",
+      "roles": [
+        null
+      ]
+    },
+    {
       "name": "Context AR",
       "description": "",
       "highlights": [
-        "blah",
-        "blah"
+        "Developed React components for the Context AR web app.",
+        "Drafted the database schema and translated it into MongoDB Stitch rules.",
+        "Coordinated the design of 16 views and tracked development progress with a wireframe.",
+        "Set up a Jira Kanban board, authored tickets for each component, and directed stand-ups."
       ],
-      "startDate": "2020-06-01",
-      "endDate": "2020-09-21",
-      "url": "https://youtube.com",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-21",
+      "url": "https://www.youtube.com/embed/P1wFhWiqwlI",
       "roles": [
-        "blah"
+        ""
       ]
     }
   ],
@@ -138,19 +144,6 @@
     }
   ],
   "volunteer": [],
-  "publications": [
-    {
-      "name": "Functional Programming for Systems Software",
-      "publisher": "University Honors Theses",
-      "releaseDate": "2020-09-21",
-      "website": "https://pdxscholar.library.pdx.edu/honorstheses/",
-      "summary": "Habit is a functional language specially designed for low-level programming. Habit aims to have the reliability and readability of a high-level language, while offering the memory management and efficiency of languages like C. In this thesis I provide a case study of Habit and discuss if it meets these goals.\n",
-      "highlights": [
-        "Implemented a page table in C and a prototype of Habit.",
-        "Enabled IA-32 paging and setup system calls in x86 Assembly."
-      ]
-    }
-  ],
   "interests": [],
   "languages": []
 }

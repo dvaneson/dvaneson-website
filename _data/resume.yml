@@ -24,20 +24,48 @@ social:
       network: GitHub
       url: 'https://github.com/dvaneson'
       user: dvaneson
+projects:
+    - title: >-
+          Functional Programming for Systems Software
+      publisher: University Honors Theses
+      url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
+      start: '2020-04-01'
+      end: '2020-09-21'
+      summary: ''
+      highlights:
+          - Presented and publicized a case study of Habit, an experimental
+            functional language for low-level programming.
+          - Compared Habit with C by implementing a page table in both
+            languages.
+          - Used x86 Assembly to enable IA-32 paging and setup system calls.
+    - title: Context AR
+      summary: ''
+      highlights:
+          - Developed React components for the Context AR web app.
+          - Drafted the database schema and translated it into MongoDB Stitch
+            rules.
+          - Coordinated the design of 16 views and tracked development progress
+            with a wireframe.
+          - Set up a Jira Kanban board, authored tickets for each component, and
+            directed stand-ups.
+      start: '2020-04-01'
+      end: '2020-08-21'
+      url: 'https://www.youtube.com/embed/P1wFhWiqwlI'
+      role: ''
 employment:
     history:
-        - position: Computer Science Tutor
-          employer: Portland State University
-          summary: ''
-          start: '2019-10-01'
-          end: '2020-08-01'
-          keywords: []
-          highlights:
-              - Debugged students code in C, C++, Java, and x86 Assembly.
-              - Taught students how to use GDB.
-              # - >-
-              #     Explained Computer Science concepts such as data structures,
-              #     discrete structures, and object oriented programming.
+        # - position: Computer Science Tutor
+        #   employer: Portland State University
+        #   summary: ''
+        #   start: '2019-10-01'
+        #   end: '2020-08-01'
+        #   keywords: []
+        #   highlights:
+        #       - Debugged students code in C, C++, Java, and x86 Assembly.
+        #       - Taught students how to use GDB.
+        # - >-
+        #     Explained Computer Science concepts such as data structures,
+        #     discrete structures, and object oriented programming.
         - position: Software Engineer Intern
           employer: Akamai Technologies
           summary: ''
@@ -114,31 +142,27 @@ skills:
               - S3
               - Selenium
               - Terraform
-writing:
-    - title: >-
-          Functional Programming for Systems Software
-      publisher: University Honors Theses
-      url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
-      date: '2020-09-21'
-      summary: >
-          Habit is a functional language specially designed for low-level
-          programming. Habit aims to have the reliability and readability of a
-          high-level language, while offering the memory management and
-          efficiency of languages like C. In this thesis I provide a case study
-          of Habit and discuss if it meets these goals.
-      highlights:
-          - Implemented a page table in C and a prototype of Habit.
-          - Enabled IA-32 paging and setup system calls in x86 Assembly.
-projects:
-    - title: Context AR
-      summary: ''
-      highlights:
-          - blah
-          - blah
-      start: '2020-06-01'
-      end: '2020-09-21'
-      url: 'https://youtube.com'
-      role: 'blah'
+        # - name: Interpersonal
+        #   skills:
+        #       - Communication
+        #       - Organization
+        #       - Flexibility
+        #       - Patience
+# writing:
+#     - title: >-
+#           Functional Programming for Systems Software
+#       publisher: University Honors Theses
+#       url: 'https://pdxscholar.library.pdx.edu/honorstheses/'
+#       date: '2020-09-21'
+#       summary: >
+#           Habit is a functional language specially designed for low-level
+#           programming. Habit aims to have the reliability and readability of a
+#           high-level language, while offering the memory management and
+#           efficiency of languages like C. In this thesis I provide a case study
+#           of Habit and discuss if it meets these goals.
+#       highlights:
+#           - Implemented a page table in C and a prototype of Habit.
+#           - Enabled IA-32 paging and setup system calls in x86 Assembly.
 service:
     history: []
 recognition: []

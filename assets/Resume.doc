@@ -187,8 +187,8 @@
         <w:contextualSpacing/>
       </w:pPr>
       <w:rPr>
-        <w:rFonts w:ascii="Open Sans" w:h-ansi="Open Sans"/>
-        <wx:font wx:val="Open Sans"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
+        <wx:font wx:val="Calibri"/>
         <w:b/>
         <w:sz w:val="40"/>
         <w:sz-cs w:val="40"/>
@@ -207,8 +207,8 @@
         </w:pBdr>
       </w:pPr>
       <w:rPr>
-        <wx:font wx:val="Open Sans"/>
-        <w:rFonts w:ascii="Open Sans" w:h-ansi="Open Sans"/>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
         <w:sz w:val="28"/>
         <w:sz-cs w:val="28"/>
         <w:caps/>
@@ -223,8 +223,8 @@
       <wx:uiName wx:val="Heading 2"/>
       <w:basedOn w:val="Normal"/>
       <w:rPr>
-        <wx:font wx:val="Open Sans Light"/>
-        <w:rFonts w:ascii="Open Sans Light" w:h-ansi="Open Sans Light"/>
+        <wx:font wx:val="Calibri"/>
+        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
         <w:sz-cs w:val="24"/>
         <w:sz w:val="24"/>
         <w:color w:val="#6497b1" />
@@ -234,7 +234,6 @@
     <w:style w:type="character" w:styleId="FromTo">
       <w:name w:val="FromTo"/>
       <w:rPr>
-        <w:rFonts w:ascii="Calibri" w:h-ansi="Calibri"/>
         <w:b/>
         <w:b-cs/>
         <w:color w:val="#23272a" />
@@ -247,18 +246,17 @@
         <w:strike w:val="off"/>
         <w:dstrike w:val="off"/>
         <w:color w:val="#6497b1"/>
-        <w:u w:val="none"/>
+        <w:u w:val="single" w:color="#011f4b"/>
         <w:effect w:val="none"/>
       </w:rPr>
     </w:style>
     <w:style w:type="character" w:styleId="FollowedHyperlink">
       <w:name w:val="FollowedHyperlink"/>
-      <w:rsid w:val="001B7422"/>
       <w:rPr>
         <w:strike w:val="off"/>
         <w:dstrike w:val="off"/>
-        <w:color w:val="#011f4b"/>
-        <w:u w:val="none"/>
+        <w:color w:val="#b3cde0"/>
+        <w:u w:val="single" w:color="#011f4b"/>
         <w:effect w:val="none"/>
       </w:rPr>
     </w:style>
@@ -446,13 +444,13 @@
         
             <w:p>
               <w:r>
+                <w:t>GPA: </w:t>
+              </w:r>
+              <w:r>
                 <w:rPr>
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>GPA: </w:t>
-              </w:r>
-              <w:r>
                 <w:t>3.73</w:t>
               </w:r>
             </w:p>
@@ -507,12 +505,12 @@
               <w:pStyle w:val="Heading1"/>
             </w:pPr>
             <w:r wsp:rsidRPr="00C146CA">
-              <w:t>Thesis</w:t>
+              <w:t>PROJECTS</w:t>
             </w:r>
           </w:p>
         
           <wx:sub-section>
-            <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+            <w:p>
               <w:pPr>
                 <w:pStyle w:val="Heading2" />
                 <w:tabs>
@@ -520,7 +518,7 @@
                 </w:tabs>
               </w:pPr>
               <w:hlink w:dest="https://pdxscholar.library.pdx.edu/honorstheses/">
-                <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+                <w:r>
                   <w:rPr>
                     <w:rStyle w:val="Hyperlink" />
                     <w:b />
@@ -530,20 +528,17 @@
                   <w:t>Functional Programming for Systems Software</w:t>
                 </w:r>
                 </w:hlink>
-              <w:r wsp:rsidR="00EA0B64">
+              <w:r>
                 <w:tab />
               </w:r>
-              <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+              <w:r>
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Sep 2020</w:t>
+                <w:t>Apr 2020 — Sep 2020</w:t>
               </w:r>
             </w:p>
         
-            <w:p>
-              <w:r><w:rPr></w:rPr><w:t>Habit is a functional language specially designed for low-level programming. Habit aims to have the reliability and readability of a high-level language, while offering the memory management and efficiency of languages like C. In this thesis I provide a case study of Habit and discuss if it meets these goals.</w:t></w:r>
-            </w:p>
         
             <w:p>
               <w:pPr>
@@ -554,11 +549,8 @@
                   <wx:t wx:val="•" />
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Implemented a page table in C and a prototype of Habit.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Presented and publicized a case study of Habit, an experimental functional language for low-level programming.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -569,11 +561,102 @@
                   <wx:t wx:val="•" />
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Enabled IA-32 paging and setup system calls in x86 Assembly.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Compared Habit with C by implementing a page table in both languages.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Used x86 Assembly to enable IA-32 paging and setup system calls.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+        
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:hlink w:dest="https://www.youtube.com/embed/P1wFhWiqwlI">
+                <w:r>
+                  <w:rPr>
+                    <w:rStyle w:val="Hyperlink" />
+                    <w:b />
+                    <w:b-cs />
+                  </w:rPr>
+        
+                  <w:t>Context AR</w:t>
+                </w:r>
+                </w:hlink>
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Apr 2020 — Aug 2020</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Developed React components for the Context AR web app.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into MongoDB Stitch rules.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Coordinated the design of 16 views and tracked development progress with a wireframe.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Set up a Jira Kanban board, authored tickets for each component, and directed stand-ups.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -603,75 +686,6 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>Computer Science Tutor, </w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-        
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>Portland State University</w:t>
-                </w:r>
-                
-              <w:r wsp:rsidR="00EA0B64">
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Oct 2019 — Aug 2020</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Debugged students code in C, C++, Java, and x86 Assembly.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Taught students how to use GDB.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
                 <w:t>Software Engineer Intern, </w:t>
               </w:r>
               
@@ -684,7 +698,7 @@
                   <w:t>Akamai Technologies</w:t>
                 </w:r>
                 
-              <w:r wsp:rsidR="00EA0B64">
+              <w:r>
                 <w:tab />
               </w:r>
               <w:r>
@@ -753,7 +767,7 @@
                   <w:t>Comscore, Inc.</w:t>
                 </w:r>
                 
-              <w:r wsp:rsidR="00EA0B64">
+              <w:r>
                 <w:tab />
               </w:r>
               <w:r>
@@ -837,7 +851,7 @@
                   <w:t>XPO Logistics, Inc.</w:t>
                 </w:r>
                 
-              <w:r wsp:rsidR="00EA0B64">
+              <w:r>
                 <w:tab />
               </w:r>
               <w:r>
@@ -906,7 +920,7 @@
                   <w:t>Janrain, Inc.</w:t>
                 </w:r>
                 
-              <w:r wsp:rsidR="00EA0B64">
+              <w:r>
                 <w:tab />
               </w:r>
               <w:r>
