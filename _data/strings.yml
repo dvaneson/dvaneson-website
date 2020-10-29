@@ -120,6 +120,8 @@ resume:
   website:             Website
   work:                Experience
   work_title:          <!--position--> <br> <em><!--company--></em>
+  projects:            Projects
+  projects_name:       <!--name-->
   highlights:          Highlights
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
@@ -153,6 +155,7 @@ resume:
     phone:             icon-phone
     website:           icon-home3
     work:              icon-briefcase
+    projects:          icon-briefcase
     volunteer:         icon-earth
     education:         icon-library
     awards:            icon-trophy

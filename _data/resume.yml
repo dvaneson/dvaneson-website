@@ -129,6 +129,16 @@ writing:
       highlights:
           - Implemented a page table in C and a prototype of Habit.
           - Enabled IA-32 paging and setup system calls in x86 Assembly.
+projects:
+    - title: Context AR
+      summary: ''
+      highlights:
+          - blah
+          - blah
+      start: '2020-06-01'
+      end: '2020-09-21'
+      url: 'https://youtube.com'
+      role: 'blah'
 service:
     history: []
 recognition: []

@@ -6,6 +6,7 @@ order: 3
 left_column:
     - education
     - publications
+    - projects
     - work
     #  - volunteer
     #  - awards

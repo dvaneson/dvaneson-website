@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "lastModified": "2020-10-28T23:59:23.686Z"
+  },
   "basics": {
     "label": "Software Engineer and Researcher",
     "email": "dvaneson@gmail.com",
@@ -92,6 +95,22 @@
       "endDate": "2020-08-01",
       "area": "Computer Science, University Honors",
       "studyType": "Bachelor of Science"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Context AR",
+      "description": "",
+      "highlights": [
+        "blah",
+        "blah"
+      ],
+      "startDate": "2020-06-01",
+      "endDate": "2020-09-21",
+      "url": "https://youtube.com",
+      "roles": [
+        "blah"
+      ]
     }
   ],
   "skills": [
