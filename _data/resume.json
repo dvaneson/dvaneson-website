@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-29T06:16:32.766Z"
+    "lastModified": "2020-10-29T06:59:34.390Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -30,6 +30,17 @@
     ]
   },
   "work": [
+    {
+      "company": "Portland State University",
+      "position": "Computer Science Tutor",
+      "startDate": "2019-10-01",
+      "endDate": "2020-08-01",
+      "summary": "",
+      "highlights": [
+        "Debugged students code in C, C++, Java, and x86 Assembly.",
+        "Taught students how to use GDB."
+      ]
+    },
     {
       "company": "Akamai Technologies",
       "position": "Software Engineer Intern",
@@ -91,12 +102,12 @@
       "name": "Functional Programming for Systems Software",
       "description": "",
       "highlights": [
-        "Presented and publicized a case study of Habit, an experimental functional language for low-level programming.",
+        "Publicized and presented a case study of Habit, an experimental functional language for low-level programming.",
         "Compared Habit with C by implementing a page table in both languages.",
         "Used x86 Assembly to enable IA-32 paging and setup system calls."
       ],
       "startDate": "2020-04-01",
-      "endDate": "2020-09-21",
+      "endDate": "2020-08-21",
       "url": "https://pdxscholar.library.pdx.edu/honorstheses/",
       "roles": [
         null
@@ -125,8 +136,9 @@
       "keywords": [
         "C/C++",
         "Haskell",
-        "Python",
-        "x86 Assembly"
+        "HTML/CSS",
+        "JavaScript",
+        "Python"
       ]
     },
     {
@@ -135,7 +147,7 @@
         "EC2",
         "GDB",
         "Git",
-        "JIRA",
+        "Jira",
         "Jenkins",
         "S3",
         "Selenium",
