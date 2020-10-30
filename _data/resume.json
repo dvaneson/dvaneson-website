@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-29T20:26:22.496Z"
+    "lastModified": "2020-10-30T00:46:36.057Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -38,7 +38,7 @@
       "summary": "",
       "highlights": [
         "Debugged students code in C, C++, Java, and x86 Assembly.",
-        "Taught students about data structures, object oriented programming, and program design."
+        "Taught students about data structures, object-oriented programming, and program design."
       ]
     },
     {
@@ -99,6 +99,22 @@
   ],
   "projects": [
     {
+      "name": "Context AR",
+      "description": "",
+      "highlights": [
+        "Developed React components that allowed users to create and edit modules to guide other users through a sequence of place-based lessons.",
+        "Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and document level rules.",
+        "Coordinated the design of 16 views and tracked development progress with a wireframe.",
+        "Organized a Jira Kanban board, authored tickets for each view, and directed stand-ups."
+      ],
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-21",
+      "url": "https://www.youtube.com/watch?v=P1wFhWiqwlI",
+      "roles": [
+        null
+      ]
+    },
+    {
       "name": "Functional Programming for Systems Software",
       "description": "",
       "highlights": [
@@ -112,22 +128,6 @@
       "roles": [
         null
       ]
-    },
-    {
-      "name": "Context AR",
-      "description": "",
-      "highlights": [
-        "Developed React components for Context AR, a web app for experiential learning.",
-        "Drafted the database schema and translated it into two MongoDB collections.",
-        "Coordinated the design of 16 views and tracked development progress with a wireframe.",
-        "Organized a Jira Kanban board, authored tickets for each view, and directed stand-ups."
-      ],
-      "startDate": "2020-04-01",
-      "endDate": "2020-08-21",
-      "url": "https://www.youtube.com/watch?v=P1wFhWiqwlI",
-      "roles": [
-        ""
-      ]
     }
   ],
   "skills": [
@@ -135,8 +135,9 @@
       "name": "Programming",
       "keywords": [
         "C/C++",
+        "CSS",
         "Haskell",
-        "HTML/CSS",
+        "HTML",
         "JavaScript",
         "Python"
       ]
