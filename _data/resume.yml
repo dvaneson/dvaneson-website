@@ -105,7 +105,8 @@ employment:
           highlights:
               - Expanded Behave tests prior to implementation to promote
                 test-driven development.
-              - Tested the interface of a web app with Selenium.
+              #   - Tested the interface of a web app with Selenium.
+              - Contributed unit tests for a REST API written in Go.
 education:
     level: ''
     history:

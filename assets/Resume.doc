@@ -1029,7 +1029,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Tested the interface of a web app with Selenium.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Contributed unit tests for a REST API written in Go.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
