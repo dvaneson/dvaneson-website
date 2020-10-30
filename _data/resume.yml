@@ -84,7 +84,8 @@ employment:
               - Refined a testing framework for the QA team in C#.
               - Performed deploys once a week with Jenkins to production
                 environments.
-              - Maintained Ruby scripts used for deployment.
+              - Maintained Ruby scripts that automated the deployment and
+                testing of code.
         - position: Software Engineer Intern
           employer: 'XPO Logistics, Inc.'
           summary: ''

@@ -891,7 +891,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Maintained Ruby scripts used for deployment.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Maintained Ruby scripts that automated the deployment and testing of code.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
