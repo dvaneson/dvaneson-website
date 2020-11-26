@@ -4,10 +4,10 @@ title: Résumé
 hide_description: false
 order: 3
 left_column:
-    - education
+    - work
     - publications
     - projects
-    - work
+    - education
     #  - volunteer
     #  - awards
     #  - references
