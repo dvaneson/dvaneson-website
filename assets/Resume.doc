@@ -237,6 +237,8 @@
         <w:b/>
         <w:b-cs/>
         <w:color w:val="#23272a" />
+        <w:sz-cs w:val="22"/>
+        <w:sz w:val="22"/>
       </w:rPr>
     </w:style>
 
@@ -332,6 +334,12 @@
         <w:pPr>
           <w:jc w:val="center"/>
         </w:pPr>
+        <w:r>
+          <w:t>971-400-3011</w:t>
+        </w:r>
+        <w:r>
+          <w:t> • </w:t>
+        </w:r>
         <w:hlink w:dest="mailto:dvaneson@gmail.com">
           <w:r>
             <w:rPr>
@@ -343,18 +351,12 @@
         <w:r>
           <w:t> • </w:t>
         </w:r>
-        <w:r>
-          <w:t>971-400-3011</w:t>
-        </w:r>
-        <w:r>
-          <w:t> • </w:t>
-        </w:r>
         <w:hlink w:dest="https://dvaneson.com">
           <w:r>
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
             </w:rPr>
-            <w:t>https://dvaneson.com</w:t>
+            <w:t>dvaneson.com</w:t>
           </w:r>
         </w:hlink>
 
@@ -383,81 +385,6 @@
       </w:p>
 
         <wx:sub-section>
-        
-          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-            <w:pPr>
-              <w:pStyle w:val="Heading1"/>
-            </w:pPr>
-            <w:r wsp:rsidRPr="00C146CA">
-              <w:t>EDUCATION</w:t>
-            </w:r>
-          </w:p>
-        
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Bachelor of Science</w:t>
-              </w:r>
-              <w:r>
-                <w:t> in </w:t>
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Computer Science, University Honors</w:t>
-              </w:r>
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Sep 2016 — Aug 2020</w:t>
-              </w:r>
-            </w:p>
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:i />
-                  <w:i-cs />
-                </w:rPr>
-                <w:t>Portland State University</w:t>
-              </w:r>
-            </w:p>
-        
-            <w:p>
-              <w:r>
-                <w:t>GPA: </w:t>
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>3.73</w:t>
-              </w:r>
-            </w:p>
-        
-        
-          </wx:sub-section>
-        </wx:sub-section>        <wx:sub-section>
         
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
             <w:pPr>
@@ -498,6 +425,377 @@
               <w:t>EC2, GDB, Git, Jira, Jenkins, S3, Selenium, and Terraform</w:t>
             </w:r>
           </w:p>
+        </wx:sub-section>        <wx:sub-section>
+        
+          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+            <w:pPr>
+              <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r wsp:rsidRPr="00C146CA">
+              <w:t>Experience</w:t>
+            </w:r>
+          </w:p>
+        
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Computer Science Tutor</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Portland State University</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Oct 2019 — Aug 2020</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Debugged students code in C, C++, Java, and x86 Assembly.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Taught students about data structures, object-oriented programming, and program design.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Software Engineer Intern</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Akamai Technologies</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Jan 2019 — Jun 2019</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Configured and deployed EC2 instances with Terraform.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Wrote to, read from, and monitored Kinesis streams used to process user data.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>DevOps Intern</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Comscore, Inc.</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Jul 2018 — Dec 2018</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Refined a testing framework for the QA team in C#.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Maintained Ruby scripts that automated the deployment and testing of code.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Software Engineer Intern</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, XPO Logistics, Inc.</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Jan 2018 — Jun 2018</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Designed and coded a web app from scratch with React, Java, and SQL.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Reduced the time taken to change weather alerts from an hour or more down to a few minutes.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Software QA Intern</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Janrain, Inc.</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Jul 2017 — Dec 2017</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Expanded Behave tests prior to implementation to promote test-driven development.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Contributed unit tests for a REST API written in Go.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
         </wx:sub-section>        <wx:sub-section>
         
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -550,7 +848,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Developed React components that allowed users to create and edit modules to guide other users through a sequence of place-based lessons.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Developed React components that allowed teachers to create and edit modules to guide students through a sequence of place-based lessons.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -562,7 +860,7 @@
                   <wx:font wx:val="Calibri" />
                 </w:listPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and document level rules.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and field requirements.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -669,7 +967,7 @@
               <w:pStyle w:val="Heading1"/>
             </w:pPr>
             <w:r wsp:rsidRPr="00C146CA">
-              <w:t>Experience</w:t>
+              <w:t>EDUCATION</w:t>
             </w:r>
           </w:p>
         
@@ -686,18 +984,18 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>Computer Science Tutor, </w:t>
+                <w:t>Bachelor of Science</w:t>
               </w:r>
-              
-                <w:r>
-                  <w:rPr>
-        
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>Portland State University</w:t>
-                </w:r>
-                
+              <w:r>
+                <w:t> in </w:t>
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Computer Science, University Honors</w:t>
+              </w:r>
               <w:r>
                 <w:tab />
               </w:r>
@@ -705,44 +1003,10 @@
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Oct 2019 — Aug 2020</w:t>
+                <w:t>Sep 2016 — Aug 2020</w:t>
               </w:r>
             </w:p>
         
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Debugged students code in C, C++, Java, and x86 Assembly.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Taught students about data structures, object-oriented programming, and program design.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
             <w:p>
               <w:pPr>
                 <w:pStyle w:val="Heading2" />
@@ -752,285 +1016,26 @@
               </w:pPr>
               <w:r>
                 <w:rPr>
-                  <w:b />
-                  <w:b-cs />
+                  <w:i />
+                  <w:i-cs />
                 </w:rPr>
-                <w:t>Software Engineer Intern, </w:t>
+                <w:t>Portland State University</w:t>
               </w:r>
-              
-                <w:r>
-                  <w:rPr>
+            </w:p>
         
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>Akamai Technologies</w:t>
-                </w:r>
-                
+            <w:p>
               <w:r>
-                <w:tab />
+                <w:t>GPA: </w:t>
               </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jan 2019 — Jun 2019</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Configured and deployed EC2 instances with Terraform.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Wrote to, read from, and monitored Kinesis streams used to process user data.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
               <w:r>
                 <w:rPr>
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>DevOps Intern, </w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-        
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>Comscore, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jul 2018 — Dec 2018</w:t>
+                <w:t>3.73</w:t>
               </w:r>
             </w:p>
         
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Refined a testing framework for the QA team in C#.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Maintained Ruby scripts that automated the deployment and testing of code.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Software Engineer Intern, </w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-        
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>XPO Logistics, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jan 2018 — Jun 2018</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Designed and coded a web app from scratch with React, Java, and SQL.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Reduced the time taken to change weather alerts from an hour or more down to a few minutes.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Software QA Intern, </w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-        
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>Janrain, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jul 2017 — Dec 2017</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Expanded Behave tests prior to implementation to promote test-driven development.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Contributed unit tests for a REST API written in Go.</w:t></w:r>
-            </w:p>
         
           </wx:sub-section>
         </wx:sub-section>

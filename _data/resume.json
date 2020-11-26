@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2020-10-30T01:02:44.176Z"
+    "lastModified": "2020-11-26T00:16:55.376Z"
   },
   "basics": {
     "label": "Software Engineer and Researcher",
@@ -102,8 +102,8 @@
       "name": "Context AR",
       "description": "",
       "highlights": [
-        "Developed React components that allowed users to create and edit modules to guide other users through a sequence of place-based lessons.",
-        "Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and document level rules.",
+        "Developed React components that allowed teachers to create and edit modules to guide students through a sequence of place-based lessons.",
+        "Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and field requirements.",
         "Coordinated the design of 16 views and tracked development progress with a wireframe.",
         "Organized a Jira Kanban board, authored tickets for each view, and directed stand-ups."
       ],

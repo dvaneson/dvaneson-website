@@ -31,11 +31,10 @@ projects:
       url: 'https://www.youtube.com/watch?v=P1wFhWiqwlI'
       summary: ''
       highlights:
-          - Developed React components that allowed users to create and edit
-            modules to guide other users through a sequence of place-based
-            lessons.
+          - Developed React components that allowed teachers to create and edit
+            modules to guide students through a sequence of place-based lessons.
           - Drafted the database schema and translated it into two MongoDB
-            collections with roles, permissions, and document level rules.
+            collections with roles, permissions, and field requirements.
           - Coordinated the design of 16 views and tracked development progress
             with a wireframe.
           - Organized a Jira Kanban board, authored tickets for each view, and
