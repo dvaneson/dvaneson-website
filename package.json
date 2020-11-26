@@ -4,9 +4,10 @@
     "description": "A personal website to showcase some of my past projects and resume.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "serve": "npm run resume && jekyll serve bundle exec",
-        "resume": "npm run build_resume && npm run convert_resume",
-        "build_resume": "hackmyresume BUILD _data/resume.yml TO assets/Resume.pdf assets/Resume.doc -o options.json",
+        "serve": "npm run build_resume && jekyll serve bundle exec",
+        "build_resume": "npm run build_pdf && npm run build_doc && npm run convert_resume",
+        "build_pdf": "hackmyresume BUILD _data/resume.yml TO assets/Resume.pdf -o options.json",
+        "build_doc": "hackmyresume BUILD _data/resume.yml TO assets/Resume.doc -o options.json",
         "convert_resume": "hackmyresume CONVERT _data/resume.yml TO _data/resume.json --format JRS@1"
     },
     "repository": {
