@@ -8,7 +8,7 @@ caption: Implementing Baremetal Programs in Habit
 description:
 links:
     - title: Paper
-      url: https://pdxscholar.library.pdx.edu/honorstheses/
+      url: https://pdxscholar.library.pdx.edu/honorstheses/947/
     - title: C Implementation
       url: https://github.com/dvaneson/paging
     - title: LC Implementation
@@ -25,8 +25,8 @@ gap between a high-level language that minimizes potential errors and the low
 level capabilities and efficiency of a language like C. To test how well Habit
 meets this goal I implemented a page table in both C and a prototype of Habit,
 LC, to compare and contrast the implementations. I found Habit to be an
-interesting and potentially powerful language, but also unfortunately encounterd
-a bug in the compiler that prevented me from finishing the page table. There
-were also some feature gaps I felt should be addressed, that I discuss in the
-paper. My hope is to see the continued development of Habit so that it becomes a
-more reliable and fleshed out language.
+interesting and potentially powerful language, but also unfortunately
+encountered a bug in the compiler that prevented me from finishing the page
+table. There were also some feature gaps I felt should be addressed, that I
+discuss in the paper. My hope is to see the continued development of Habit so
+that it becomes a more reliable and fleshed out language.
