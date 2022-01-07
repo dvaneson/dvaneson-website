@@ -335,7 +335,7 @@
           <w:jc w:val="center"/>
         </w:pPr>
         <w:r>
-          <w:t>971-400-3011</w:t>
+          <w:t>971-348-8900</w:t>
         </w:r>
         <w:r>
           <w:t> • </w:t>
@@ -407,7 +407,7 @@
               <w:t>Programming: </w:t>
             </w:r>
             <w:r>
-              <w:t>C/C++, CSS, Haskell, HTML, JavaScript, and Python</w:t>
+              <w:t>Go, Python, and Java</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -422,7 +422,7 @@
               <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>EC2, GDB, Git, Jira, Jenkins, S3, Selenium, and Terraform</w:t>
+              <w:t>Ansible, AWS, Helm, Kubernetes, TeamCity, and Terraform</w:t>
             </w:r>
           </w:p>
         </wx:sub-section>        <wx:sub-section>
@@ -449,7 +449,7 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>Computer Science Tutor</w:t>
+                <w:t>Site Reliability Engineer</w:t>
               </w:r>
               
                 <w:r>
@@ -458,7 +458,7 @@
                     <w:i />
                     <w:i-cs />
                   </w:rPr>
-                  <w:t>, Portland State University</w:t>
+                  <w:t>, Zapproved</w:t>
                 </w:r>
                 
               <w:r>
@@ -468,7 +468,7 @@
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Oct 2019 — Aug 2020</w:t>
+                <w:t>Mar 2021 — Present</w:t>
               </w:r>
             </w:p>
         
@@ -486,7 +486,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Debugged students code in C, C++, Java, and x86 Assembly.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Enabled AWS Systems Manager for several dozen EC2 instances, allowing for secure remote command execution, automated patching, and fine-grained access control to instances.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -501,7 +501,37 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Taught students about data structures, object-oriented programming, and program design.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Analyzed and resolved an Elasticsearch cluster issue that caused day long logging outages, sometimes multiple times a week.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Spearheaded the refactoring of the Kubernetes solution. Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents. Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -658,144 +688,6 @@
             </w:p>
         
           </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Software Engineer Intern</w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-                    
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>, XPO Logistics, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jan 2018 — Jun 2018</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Designed and coded a web app from scratch with React, Java, and SQL.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Reduced the time taken to change weather alerts from an hour or more down to a few minutes.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Software QA Intern</w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-                    
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>, Janrain, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jul 2017 — Dec 2017</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Expanded Behave tests prior to implementation to promote test-driven development.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Contributed unit tests for a REST API written in Go.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
         </wx:sub-section>        <wx:sub-section>
         
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -806,88 +698,6 @@
               <w:t>PROJECTS</w:t>
             </w:r>
           </w:p>
-        
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:hlink w:dest="https://www.youtube.com/watch?v=P1wFhWiqwlI">
-                <w:r>
-                  <w:rPr>
-                    <w:rStyle w:val="Hyperlink" />
-                    <w:b />
-                    <w:b-cs />
-                  </w:rPr>
-        
-                  <w:t>Context AR</w:t>
-                </w:r>
-                </w:hlink>
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Apr 2020 — Aug 2020</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Developed React components that allowed teachers to create and edit modules to guide students through a sequence of place-based lessons.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Drafted the database schema and translated it into two MongoDB collections with roles, permissions, and field requirements.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Coordinated the design of 16 views and tracked development progress with a wireframe.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Organized a Jira Kanban board, authored tickets for each view, and directed stand-ups.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
         
           <wx:sub-section>
             <w:p>

@@ -3,12 +3,12 @@ meta:
     modified: '2020-09-08T23:02:51.701Z'
 name: Donovan Ellison
 info:
-    label: Software Engineer and Researcher
+    label: Cloud Security Engineer
     image: ''
     brief: ''
 contact:
     email: dvaneson@gmail.com
-    phone: 971-400-3011
+    phone: 971-348-8900
     website: 'https://dvaneson.com'
     other: []
 location:
@@ -25,20 +25,20 @@ social:
       url: 'https://github.com/dvaneson'
       user: dvaneson
 projects:
-    - title: Context AR
-      start: '2020-04-01'
-      end: '2020-08-21'
-      url: 'https://www.youtube.com/watch?v=P1wFhWiqwlI'
-      summary: ''
-      highlights:
-          - Developed React components that allowed teachers to create and edit
-            modules to guide students through a sequence of place-based lessons.
-          - Drafted the database schema and translated it into two MongoDB
-            collections with roles, permissions, and field requirements.
-          - Coordinated the design of 16 views and tracked development progress
-            with a wireframe.
-          - Organized a Jira Kanban board, authored tickets for each view, and
-            directed stand-ups.
+    # - title: Context AR
+    #   start: '2020-04-01'
+    #   end: '2020-08-21'
+    #   url: 'https://www.youtube.com/watch?v=P1wFhWiqwlI'
+    #   summary: ''
+    #   highlights:
+    #       - Developed React components that allowed teachers to create and edit
+    #         modules to guide students through a sequence of place-based lessons.
+    #       - Drafted the database schema and translated it into two MongoDB
+    #         collections with roles, permissions, and field requirements.
+    #       - Coordinated the design of 16 views and tracked development progress
+    #         with a wireframe.
+    #       - Organized a Jira Kanban board, authored tickets for each view, and
+    #         directed stand-ups.
     - title: >-
           Functional Programming for Systems Software
       start: '2020-04-01'
@@ -53,16 +53,37 @@ projects:
           - Used x86 Assembly to enable IA-32 paging and setup system calls.
 employment:
     history:
-        - position: Computer Science Tutor
-          employer: Portland State University
+        - position: Site Reliability Engineer
+          employer: Zapproved
           summary: ''
-          start: '2019-10-01'
-          end: '2020-08-01'
+          start: '2021-3-29'
+          end: ''
           keywords: []
           highlights:
-              - Debugged students code in C, C++, Java, and x86 Assembly.
-              - Taught students about data structures, object-oriented
-                programming, and program design.
+              - Enabled AWS Systems Manager for several dozen EC2 instances,
+                allowing for secure remote command execution, automated
+                patching, and fine-grained access control to instances.
+              - Designed and implemented an AWS solution for managing SSH keys
+                on TeamCity agents across multiple AWS accounts.
+              - Analyzed and resolved an Elasticsearch cluster issue that caused
+                day long logging outages, sometimes multiple times a week.
+              - Spearheaded the refactoring of the Kubernetes solution.
+                Documented the current state of the Kubernetes solution by
+                updating, creating, and re-organizing several dozen internal
+                documents. Developed a roadmap for Kubernetes improvements by
+                evaluating different tools, researching best practices, creating
+                proof of concepts, and meeting with key stakeholders.
+
+        # - position: Computer Science Tutor
+        #   employer: Portland State University
+        #   summary: ''
+        #   start: '2019-10-01'
+        #   end: '2020-08-01'
+        #   keywords: []
+        #   highlights:
+        #       - Debugged students code in C, C++, Java, and x86 Assembly.
+        #       - Taught students about data structures, object-oriented
+        #         programming, and program design.
         - position: Software Engineer Intern
           employer: Akamai Technologies
           summary: ''
@@ -85,28 +106,28 @@ employment:
                 environments.
               - Maintained Ruby scripts that automated the deployment and
                 testing of code.
-        - position: Software Engineer Intern
-          employer: 'XPO Logistics, Inc.'
-          summary: ''
-          start: '2018-01-01'
-          end: '2018-06-01'
-          keywords: []
-          highlights:
-              - Designed and coded a web app from scratch with React, Java, and
-                SQL.
-              - Reduced the time taken to change weather alerts from an hour or
-                more down to a few minutes.
-        - position: Software QA Intern
-          employer: 'Janrain, Inc.'
-          summary: ''
-          start: '2017-07-01'
-          end: '2017-12-01'
-          keywords: []
-          highlights:
-              - Expanded Behave tests prior to implementation to promote
-                test-driven development.
-              #   - Tested the interface of a web app with Selenium.
-              - Contributed unit tests for a REST API written in Go.
+        # - position: Software Engineer Intern
+        #   employer: 'XPO Logistics, Inc.'
+        #   summary: ''
+        #   start: '2018-01-01'
+        #   end: '2018-06-01'
+        #   keywords: []
+        #   highlights:
+        #       - Designed and coded a web app from scratch with React, Java, and
+        #         SQL.
+        #       - Reduced the time taken to change weather alerts from an hour or
+        #         more down to a few minutes.
+        # - position: Software QA Intern
+        #   employer: 'Janrain, Inc.'
+        #   summary: ''
+        #   start: '2017-07-01'
+        #   end: '2017-12-01'
+        #   keywords: []
+        #   highlights:
+        #       - Expanded Behave tests prior to implementation to promote
+        #         test-driven development.
+        #       #   - Tested the interface of a web app with Selenium.
+        #       - Contributed unit tests for a REST API written in Go.
 education:
     level: ''
     history:
@@ -122,22 +143,28 @@ skills:
     sets:
         - name: Programming
           skills:
-              - C/C++
-              - CSS
-              - Haskell
-              - HTML
-              - JavaScript
+              - Go
               - Python
+              # - C/C++
+              # - CSS
+              # - Haskell
+              # - HTML
+              # - JavaScript
+              - Java
         - name: Technologies
           skills:
-              - EC2
-              - GDB
-              - Git
-              - Jira
-              - Jenkins
-              - S3
-              - Selenium
+              - Ansible
+              - AWS
+              - Helm
+              - Kubernetes
+              - TeamCity
               - Terraform
+              # - Jira
+              # - Jenkins
+              # - Selenium
+        # - name: Certifications
+        #   skills:
+        #       - Certified Kubernetes Administrator (CKA)
 service:
     history: []
 recognition: []
