@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
+gem "jekyll-sass-converter", "~> 2.0"
 
 gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
@@ -42,6 +43,7 @@ group :jekyll_plugins do
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
   gem "jekyll-compose"
+  
 end
 
 gem 'wdm' if Gem.win_platform?
