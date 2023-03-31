@@ -335,7 +335,7 @@
           <w:jc w:val="center"/>
         </w:pPr>
         <w:r>
-          <w:t>971-348-8900</w:t>
+          <w:t></w:t>
         </w:r>
         <w:r>
           <w:t> • </w:t>
@@ -449,6 +449,60 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
+                <w:t>Cloud Security Engineer</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Apree Health</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Jan 2022 — Present</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Lorem ipsum</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
                 <w:t>Site Reliability Engineer</w:t>
               </w:r>
               
@@ -468,7 +522,7 @@
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Mar 2021 — Present</w:t>
+                <w:t>Mar 2021 — Jan 2022</w:t>
               </w:r>
             </w:p>
         

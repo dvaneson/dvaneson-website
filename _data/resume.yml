@@ -8,11 +8,10 @@ info:
     brief: ''
 contact:
     email: dvaneson@gmail.com
-    phone: 971-348-8900
     website: 'https://dvaneson.com'
     other: []
 location:
-    city: Beaverton
+    city: Portland
     region: OR
     country: USA
 social:
@@ -53,11 +52,19 @@ projects:
           - Used x86 Assembly to enable IA-32 paging and setup system calls.
 employment:
     history:
+        - position: Cloud Security Engineer
+          employer: Apree Health
+          summary: ''
+          start: '2022-1-10'
+          end: ''
+          keywords: []
+          highlights:
+              - Lorem ipsum
         - position: Site Reliability Engineer
           employer: Zapproved
           summary: ''
           start: '2021-3-29'
-          end: ''
+          end: '2022-1-7'
           keywords: []
           highlights:
               - Enabled AWS Systems Manager for several dozen EC2 instances,
