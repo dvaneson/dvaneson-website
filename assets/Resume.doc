@@ -407,7 +407,7 @@
               <w:t>Programming: </w:t>
             </w:r>
             <w:r>
-              <w:t>Go, Python, and Java</w:t>
+              <w:t>Go, Python, CSS, HTML, and JavaScript</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -422,7 +422,22 @@
               <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>Ansible, AWS, Helm, Kubernetes, TeamCity, and Terraform</w:t>
+              <w:t>Ansible, AWS, GCP, Kubernetes, Terraform, Jira, and Jenkins</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="50" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:b-cs />
+              </w:rPr>
+              <w:t>Certifications: </w:t>
+            </w:r>
+            <w:r>
+              <w:t>Certified Kubernetes Administrator (CKA), and GIAC Cloud Security Automation Certification (GCSA)</w:t>
             </w:r>
           </w:p>
         </wx:sub-section>        <wx:sub-section>
@@ -486,7 +501,52 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Lorem ipsum</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Led the initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes. Collaborated closely with stakeholders to consolidate the approval process and automate promotions, resulting in significant time savings for both approvers and requesters.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards. Introduced sprint planning, backlog grooming, and retrospective sessions, resulting in an outstanding 77% reduction in Lead Time for ticket completion, from an average of 61.3 days to just 13.8 days after 3 months.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
@@ -540,21 +600,6 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Enabled AWS Systems Manager for several dozen EC2 instances, allowing for secure remote command execution, automated patching, and fine-grained access control to instances.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
               <w:r><w:rPr></w:rPr><w:t>Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.</w:t></w:r>
             </w:p>
             <w:p>
@@ -589,241 +634,6 @@
             </w:p>
         
           </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>Software Engineer Intern</w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-                    
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>, Akamai Technologies</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jan 2019 — Jun 2019</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Configured and deployed EC2 instances with Terraform.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Wrote to, read from, and monitored Kinesis streams used to process user data.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:r>
-                <w:rPr>
-                  <w:b />
-                  <w:b-cs />
-                </w:rPr>
-                <w:t>DevOps Intern</w:t>
-              </w:r>
-              
-                <w:r>
-                  <w:rPr>
-                    
-                    <w:i />
-                    <w:i-cs />
-                  </w:rPr>
-                  <w:t>, Comscore, Inc.</w:t>
-                </w:r>
-                
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Jul 2018 — Dec 2018</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Refined a testing framework for the QA team in C#.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Performed deploys once a week with Jenkins to production environments.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Maintained Ruby scripts that automated the deployment and testing of code.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-        </wx:sub-section>        <wx:sub-section>
-        
-          <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-            <w:pPr>
-              <w:pStyle w:val="Heading1"/>
-            </w:pPr>
-            <w:r wsp:rsidRPr="00C146CA">
-              <w:t>PROJECTS</w:t>
-            </w:r>
-          </w:p>
-        
-          <wx:sub-section>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="Heading2" />
-                <w:tabs>
-                  <w:tab w:val="right" w:pos="9360" />
-                </w:tabs>
-              </w:pPr>
-              <w:hlink w:dest="https://pdxscholar.library.pdx.edu/honorstheses/947/">
-                <w:r>
-                  <w:rPr>
-                    <w:rStyle w:val="Hyperlink" />
-                    <w:b />
-                    <w:b-cs />
-                  </w:rPr>
-        
-                  <w:t>Functional Programming for Systems Software</w:t>
-                </w:r>
-                </w:hlink>
-              <w:r>
-                <w:tab />
-              </w:r>
-              <w:r>
-                <w:rPr>
-                  <w:rStyle w:val="FromTo" />
-                </w:rPr>
-                <w:t>Apr 2020 — Aug 2020</w:t>
-              </w:r>
-            </w:p>
-        
-        
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Published an assessment of Habit, an experimental functional language for low-level programming.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Compared Habit with C by implementing a page table in both languages.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Used x86 Assembly to enable IA-32 paging and setup system calls.</w:t></w:r>
-            </w:p>
-        
-          </wx:sub-section>
-        
-        
         </wx:sub-section>        <wx:sub-section>
         
           <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
