@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-03-06T05:01:21.440Z"
+    "lastModified": "2024-03-06T16:30:28.959Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -36,10 +36,11 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Led the initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes. Collaborated closely with stakeholders to consolidate the approval process and automate promotions, resulting in significant time savings for both approvers and requesters.",
+        "Led the initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.",
         "Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.",
         "Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.",
-        "Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards. Introduced sprint planning, backlog grooming, and retrospective sessions, resulting in an outstanding 77% reduction in Lead Time for ticket completion, from an average of 61.3 days to just 13.8 days after 3 months."
+        "Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards.",
+        "Introduced sprint planning, backlog grooming, and retrospective sessions, resulting in an outstanding 77% reduction in Lead Time for ticket completion, from an average of 61.3 days to just 13.8 days after 3 months."
       ]
     },
     {
@@ -51,14 +52,14 @@
       "highlights": [
         "Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.",
         "Analyzed and resolved an Elasticsearch cluster issue that caused day long logging outages, sometimes multiple times a week.",
-        "Spearheaded the refactoring of the Kubernetes solution. Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents. Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders."
+        "Spearheaded the refactoring of the Kubernetes solution. Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents.",
+        "Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders."
       ]
     }
   ],
   "education": [
     {
       "institution": "Portland State University",
-      "gpa": "3.73",
       "startDate": "2016-09-01",
       "endDate": "2020-08-01",
       "area": "Computer Science, University Honors",
