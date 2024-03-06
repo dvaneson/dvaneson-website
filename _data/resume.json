@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-03-06T16:30:28.959Z"
+    "lastModified": "2024-03-06T18:37:27.276Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -87,7 +87,6 @@
     {
       "name": "Programming",
       "keywords": [
-        "Go",
         "Python",
         "CSS",
         "HTML",
@@ -100,6 +99,7 @@
         "Ansible",
         "AWS",
         "GCP",
+        "Docker",
         "Kubernetes",
         "Terraform",
         "Jira",

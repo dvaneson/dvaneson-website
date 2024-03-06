@@ -407,7 +407,7 @@
               <w:t>Programming: </w:t>
             </w:r>
             <w:r>
-              <w:t>Go, Python, CSS, HTML, and JavaScript</w:t>
+              <w:t>Python, CSS, HTML, and JavaScript</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -422,7 +422,7 @@
               <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>Ansible, AWS, GCP, Kubernetes, Terraform, Jira, and Jenkins</w:t>
+              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, Jira, and Jenkins</w:t>
             </w:r>
           </w:p>
           <w:p>
