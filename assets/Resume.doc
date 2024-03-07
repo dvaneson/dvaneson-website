@@ -404,25 +404,10 @@
                 <w:b />
                 <w:b-cs />
               </w:rPr>
-              <w:t>Programming: </w:t>
-            </w:r>
-            <w:r>
-              <w:t>Python, CSS, HTML, and JavaScript</w:t>
-            </w:r>
-          </w:p>
-          <w:p>
-            <w:pPr>
-              <w:spacing w:before="50" />
-            </w:pPr>
-            <w:r>
-              <w:rPr>
-                <w:b />
-                <w:b-cs />
-              </w:rPr>
               <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, Jira, and Jenkins</w:t>
+              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, and Python</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -501,7 +486,22 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Led the initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Led security initiatives throughout a year-and-a-half long data center migration to GCP. Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>

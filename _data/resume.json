@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-03-06T18:37:27.276Z"
+    "lastModified": "2024-03-07T22:03:45.898Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -36,7 +36,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Led the initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.",
+        "Led security initiatives throughout a year-and-a-half long data center migration to GCP. Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.",
+        "Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.",
         "Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.",
         "Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.",
         "Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards.",
@@ -85,15 +86,6 @@
   ],
   "skills": [
     {
-      "name": "Programming",
-      "keywords": [
-        "Python",
-        "CSS",
-        "HTML",
-        "JavaScript"
-      ]
-    },
-    {
       "name": "Technologies",
       "keywords": [
         "Ansible",
@@ -102,8 +94,7 @@
         "Docker",
         "Kubernetes",
         "Terraform",
-        "Jira",
-        "Jenkins"
+        "Python"
       ]
     },
     {
