@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-03-12T17:12:58.420Z"
+    "lastModified": "2024-03-12T17:27:57.167Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -37,7 +37,7 @@
       "summary": "",
       "highlights": [
         "As the inaugural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.",
-        "Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.",
+        "Implemented CIS standards across hundreds of VMs in Google Compute Engine and thousands of BigQuery datasets, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible ports.",
         "Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.",
         "Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.",
         "Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.",
@@ -54,7 +54,7 @@
       "highlights": [
         "Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.",
         "Analyzed and resolved an Elasticsearch cluster issue that caused day long logging outages, sometimes multiple times a week.",
-        "Spearheaded the refactoring of the Kubernetes solution. Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents.",
+        "Spearheaded the refactoring of the Kubernetes solution.",
         "Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders."
       ]
     }

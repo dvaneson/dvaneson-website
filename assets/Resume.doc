@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Implemented CIS standards across hundreds of VMs in Google Compute Engine and thousands of BigQuery datasets, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible ports.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -660,7 +660,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Spearheaded the refactoring of the Kubernetes solution. Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Spearheaded the refactoring of the Kubernetes solution.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
