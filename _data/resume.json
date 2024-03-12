@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-03-12T17:05:51.738Z"
+    "lastModified": "2024-03-12T17:12:58.420Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -36,7 +36,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "As the inagural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.",
+        "As the inaugural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.",
         "Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.",
         "Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.",
         "Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.",

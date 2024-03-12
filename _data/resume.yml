@@ -59,7 +59,7 @@ employment:
       keywords: []
       highlights:
         # - Established the Cloud Security program as the inaugural Cloud Security Engineer, directing initiatives and coordinating with cross-functional teams to prioritize Cloud Security objectives.
-        - As the inagural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.
+        - As the inaugural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.
         - Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.
         - Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.
         # - Collaborated closely with stakeholders to consolidate the approval process and automate promotions, resulting in significant time savings for both approvers and requesters.
