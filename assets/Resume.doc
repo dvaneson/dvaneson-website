@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible ports.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible GCS buckets.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
