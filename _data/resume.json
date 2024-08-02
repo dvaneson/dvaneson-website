@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-08-02T03:08:27.262Z"
+    "lastModified": "2024-08-02T03:11:21.908Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -101,8 +101,7 @@
         "Docker",
         "Kubernetes",
         "Terraform",
-        "Jenkins",
-        "Python"
+        "Jenkins"
       ]
     },
     {

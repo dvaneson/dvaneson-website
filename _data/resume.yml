@@ -186,7 +186,6 @@ skills:
         # - Jira
         - Jenkins
         # - Selenium
-        - Python
     - name: Certifications
       skills:
         - Certified Kubernetes Administrator (CKA)
