@@ -404,10 +404,25 @@
                 <w:b />
                 <w:b-cs />
               </w:rPr>
+              <w:t>Programming: </w:t>
+            </w:r>
+            <w:r>
+              <w:t>Go, Python, CSS, HTML, and JavaScript</w:t>
+            </w:r>
+          </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:before="50" />
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b />
+                <w:b-cs />
+              </w:rPr>
               <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, and Python</w:t>
+              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, and Python</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -449,6 +464,105 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
+                <w:t>Senior Cloud Security Engineer</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, Apree Health</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Mar 2024 — Present</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Led the optimization of Terraform pipelines, reducing approval and request processing times from several hours to under 10 minutes. This streamlined workflow significantly improved efficiency and usability for both approvers and requesters.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Collaborated with engineering teams to implement Renovate for automated dependency updates, successfully configuring over 100 repositories and managing thousands of dependencies. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Facilitated the deployment of a self-service access portal, resulting in a 66% reduction in group request completion times and ensuring adherence to SOC II and HITRUST access controls.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Streamlined and optimized the setup and coordination of AWS and GCP pentests, reducing the overall setup time by 50%.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
                 <w:t>Cloud Security Engineer</w:t>
               </w:r>
               
@@ -468,7 +582,7 @@
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Jan 2022 — Present</w:t>
+                <w:t>Jan 2022 — Mar 2024</w:t>
               </w:r>
             </w:p>
         
@@ -516,7 +630,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Spearheaded an initiative to optimize Terraform pipelines, slashing wait times due to handoffs from 2 hours to just 30 minutes, resulting in significant time savings for both approvers and requesters.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -531,7 +645,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification. Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -547,21 +661,6 @@
                 </w:rPr>
               </w:pPr>
               <w:r><w:rPr></w:rPr><w:t>Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -617,6 +716,21 @@
             </w:p>
         
         
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Enabled AWS Systems Manager for several dozen EC2 instances, allowing for secure remote command execution, automated patching, and fine-grained access control to instances.</w:t></w:r>
+            </w:p>
             <w:p>
               <w:pPr>
                 <w:pStyle w:val="ListParagraph" />
