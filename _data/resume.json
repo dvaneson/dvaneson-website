@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-08-02T02:27:12.610Z"
+    "lastModified": "2024-08-02T02:57:57.930Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -36,8 +36,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Led the optimization of Terraform pipelines, reducing approval and request processing times from several hours to under 10 minutes. This streamlined workflow significantly improved efficiency and usability for both approvers and requesters.",
-        "Collaborated with engineering teams to implement Renovate for automated dependency updates, successfully configuring over 100 repositories and managing thousands of dependencies. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.",
+        "Optimized Terraform pipelines, decreasing approval and request processing times by over 80%, enhancing efficiency and usability for both approvers and requesters.",
+        "Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.",
         "Facilitated the deployment of a self-service access portal, resulting in a 66% reduction in group request completion times and ensuring adherence to SOC II and HITRUST access controls.",
         "Streamlined and optimized the setup and coordination of AWS and GCP pentests, reducing the overall setup time by 50%."
       ]
@@ -53,7 +53,7 @@
         "Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible GCS buckets.",
         "Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification.",
         "Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.",
-        "Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.",
+        "Developed a Python Flask app that enables developers to bypass the 24-hour SLA for FQDN additions by quickly creating temporary egress firewall rules in lower environments. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.",
         "Introduced sprint planning, backlog grooming, and retrospective sessions, resulting in an outstanding 77% reduction in Lead Time for ticket completion, from an average of 61.3 days to just 13.8 days after 3 months."
       ]
     },
@@ -64,8 +64,8 @@
       "endDate": "2022-1-7",
       "summary": "",
       "highlights": [
-        "Enabled AWS Systems Manager for several dozen EC2 instances, allowing for secure remote command execution, automated patching, and fine-grained access control to instances.",
-        "Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.",
+        "Enabled AWS Systems Manager for several dozen EC2 instances, providing secure remote command execution, automated patching, and granular access control to instances.",
+        "Architected an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts, enhancing security and access management.",
         "Analyzed and resolved an Elasticsearch cluster issue that caused day long logging outages, sometimes multiple times a week.",
         "Spearheaded the refactoring of the Kubernetes solution.",
         "Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders."

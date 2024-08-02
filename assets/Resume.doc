@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Led the optimization of Terraform pipelines, reducing approval and request processing times from several hours to under 10 minutes. This streamlined workflow significantly improved efficiency and usability for both approvers and requesters.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Optimized Terraform pipelines, decreasing approval and request processing times by over 80%, enhancing efficiency and usability for both approvers and requesters.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -516,7 +516,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Collaborated with engineering teams to implement Renovate for automated dependency updates, successfully configuring over 100 repositories and managing thousands of dependencies. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -660,7 +660,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Developed a Python Flask application empowering developers to create temporary egress firewall rules in lower environments, circumventing the 24-hour SLA for FQDN additions. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Developed a Python Flask app that enables developers to bypass the 24-hour SLA for FQDN additions by quickly creating temporary egress firewall rules in lower environments. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -729,7 +729,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Enabled AWS Systems Manager for several dozen EC2 instances, allowing for secure remote command execution, automated patching, and fine-grained access control to instances.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Enabled AWS Systems Manager for several dozen EC2 instances, providing secure remote command execution, automated patching, and granular access control to instances.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -744,7 +744,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Designed and implemented an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Architected an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts, enhancing security and access management.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
