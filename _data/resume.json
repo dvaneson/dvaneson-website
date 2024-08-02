@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-08-02T02:57:57.930Z"
+    "lastModified": "2024-08-02T03:08:27.262Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -67,7 +67,7 @@
         "Enabled AWS Systems Manager for several dozen EC2 instances, providing secure remote command execution, automated patching, and granular access control to instances.",
         "Architected an AWS solution for managing SSH keys on TeamCity agents across multiple AWS accounts, enhancing security and access management.",
         "Analyzed and resolved an Elasticsearch cluster issue that caused day long logging outages, sometimes multiple times a week.",
-        "Spearheaded the refactoring of the Kubernetes solution.",
+        "Spearheaded the refactoring of the AWS Elastic Kubernetes Service (EKS) provisioning and configuration.",
         "Developed a roadmap for Kubernetes improvements by evaluating different tools, researching best practices, creating proof of concepts, and meeting with key stakeholders."
       ]
     }

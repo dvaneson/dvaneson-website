@@ -92,7 +92,7 @@ employment:
           TeamCity agents across multiple AWS accounts, enhancing security and access management.
         - Analyzed and resolved an Elasticsearch cluster issue that caused day
           long logging outages, sometimes multiple times a week.
-        - Spearheaded the refactoring of the Kubernetes solution. # Documented the current state of the Kubernetes solution by updating, creating, and re-organizing several dozen internal documents.
+        - Spearheaded the refactoring of the AWS Elastic Kubernetes Service (EKS) provisioning and configuration.
         - Developed a roadmap for Kubernetes improvements by evaluating different tools, researching
           best practices, creating proof of concepts, and meeting with key
           stakeholders.
