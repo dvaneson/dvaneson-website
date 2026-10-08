@@ -437,7 +437,7 @@
               <w:t>Certifications: </w:t>
             </w:r>
             <w:r>
-              <w:t>Certified Kubernetes Administrator (CKA), and GIAC Cloud Security Automation Certification (GCSA)</w:t>
+              <w:t>and GIAC Cloud Security Automation Certification (GCSA)</w:t>
             </w:r>
           </w:p>
         </wx:sub-section>        <wx:sub-section>
@@ -464,7 +464,7 @@
                   <w:b />
                   <w:b-cs />
                 </w:rPr>
-                <w:t>Senior Cloud Security Engineer</w:t>
+                <w:t>Security Engineer</w:t>
               </w:r>
               
                 <w:r>
@@ -473,7 +473,7 @@
                     <w:i />
                     <w:i-cs />
                   </w:rPr>
-                  <w:t>, Apree Health</w:t>
+                  <w:t>, Ontra</w:t>
                 </w:r>
                 
               <w:r>
@@ -483,7 +483,106 @@
                 <w:rPr>
                   <w:rStyle w:val="FromTo" />
                 </w:rPr>
-                <w:t>Mar 2024 — Present</w:t>
+                <w:t>Sep 2024 — Present</w:t>
+              </w:r>
+            </w:p>
+        
+        
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Built an AI vulnerability-triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Replaced manual vulnerability handoffs with an event-driven pipeline (Tines, Jira automation, Slack) that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams and auto-closed 242 tickets on scanner fix or triage events.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Partnered with Infrastructure on a service-mesh and Gateway API migration for east-west mTLS. Analyzed gateway benchmarks to steer controller selection, co-built Linkerd and Kgateway proofs of concept, and upgraded the Calico operator.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Owned the Rad Security runtime agent on 10 production and staging AWS EKS clusters, keeping Kubernetes threat detection and audit logging current through 12 merged Helm and Terraform PRs.</w:t></w:r>
+            </w:p>
+        
+          </wx:sub-section>
+          <wx:sub-section>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="Heading2" />
+                <w:tabs>
+                  <w:tab w:val="right" w:pos="9360" />
+                </w:tabs>
+              </w:pPr>
+              <w:r>
+                <w:rPr>
+                  <w:b />
+                  <w:b-cs />
+                </w:rPr>
+                <w:t>Senior Cloud Security Engineer</w:t>
+              </w:r>
+              
+                <w:r>
+                  <w:rPr>
+                    
+                    <w:i />
+                    <w:i-cs />
+                  </w:rPr>
+                  <w:t>, apree health</w:t>
+                </w:r>
+                
+              <w:r>
+                <w:tab />
+              </w:r>
+              <w:r>
+                <w:rPr>
+                  <w:rStyle w:val="FromTo" />
+                </w:rPr>
+                <w:t>Mar 2024 — Sep 2024</w:t>
               </w:r>
             </w:p>
         
@@ -516,7 +615,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -572,7 +671,7 @@
                     <w:i />
                     <w:i-cs />
                   </w:rPr>
-                  <w:t>, Apree Health</w:t>
+                  <w:t>, apree health</w:t>
                 </w:r>
                 
               <w:r>

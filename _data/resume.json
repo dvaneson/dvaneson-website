@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2024-08-02T03:11:21.908Z"
+    "lastModified": "2026-10-08T22:17:06.989Z"
   },
   "basics": {
     "label": "Cloud Security Engineer",
@@ -30,20 +30,33 @@
   },
   "work": [
     {
-      "company": "Apree Health",
-      "position": "Senior Cloud Security Engineer",
-      "startDate": "2024-3-15",
+      "company": "Ontra",
+      "position": "Security Engineer",
+      "startDate": "2024-9-20",
       "endDate": "",
       "summary": "",
       "highlights": [
+        "Built an AI vulnerability-triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.",
+        "Replaced manual vulnerability handoffs with an event-driven pipeline (Tines, Jira automation, Slack) that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams and auto-closed 242 tickets on scanner fix or triage events.",
+        "Partnered with Infrastructure on a service-mesh and Gateway API migration for east-west mTLS. Analyzed gateway benchmarks to steer controller selection, co-built Linkerd and Kgateway proofs of concept, and upgraded the Calico operator.",
+        "Owned the Rad Security runtime agent on 10 production and staging AWS EKS clusters, keeping Kubernetes threat detection and audit logging current through 12 merged Helm and Terraform PRs."
+      ]
+    },
+    {
+      "company": "apree health",
+      "position": "Senior Cloud Security Engineer",
+      "startDate": "2024-3-15",
+      "endDate": "2024-9-20",
+      "summary": "",
+      "highlights": [
         "Optimized Terraform pipelines, decreasing approval and request processing times by over 80%, enhancing efficiency and usability for both approvers and requesters.",
-        "Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach has mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.",
+        "Partnered with engineering teams to deploy Renovate across 100+ repositories, automating dependency management. This proactive approach mitigated Critical and High vulnerabilities in over 50 production services, significantly enhancing security posture.",
         "Facilitated the deployment of a self-service access portal, resulting in a 66% reduction in group request completion times and ensuring adherence to SOC II and HITRUST access controls.",
         "Streamlined and optimized the setup and coordination of AWS and GCP pentests, reducing the overall setup time by 50%."
       ]
     },
     {
-      "company": "Apree Health",
+      "company": "apree health",
       "position": "Cloud Security Engineer",
       "startDate": "2022-1-10",
       "endDate": "2024-3-15",
@@ -107,7 +120,6 @@
     {
       "name": "Certifications",
       "keywords": [
-        "Certified Kubernetes Administrator (CKA)",
         "GIAC Cloud Security Automation Certification (GCSA)"
       ]
     }
