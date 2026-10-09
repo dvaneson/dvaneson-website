@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Automated vulnerability management with an event-driven pipeline that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams, and auto-closed 242 tickets on scanner fix or triage events.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Automated vulnerability intake and routing across 5+ sources, tracking 1,000+ findings, assigning SLA due dates and owning teams, and auto-closing 242 Jira tickets after fixes or triage.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -516,7 +516,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Built an AI vulnerability triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Built an AI vulnerability triage agent that assessed business risk and assigned owning teams, identifying 60% of 438 reviewed tickets as false positives over 6 months as quarterly intake rose ~13x; an approval gate held Jira and Semgrep writes until review.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -531,7 +531,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Partnered with Infrastructure on a service-mesh and Gateway API migration for east-west mTLS. Analyzed gateway benchmarks to steer controller selection, co-built Linkerd and Kgateway proofs of concept, and upgraded the Calico operator.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Defined security requirements for Infrastructure&amp;apos;s service-mesh and Gateway API migration for east-west mTLS; used gateway benchmark data to inform controller selection and contributed to Linkerd service-policy and Kgateway proofs of concept.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -561,7 +561,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Built and operated an open-source threat modeling app on EKS and RDS using Terraform, Helm, GitHub Actions, and Okta OIDC; after an adoption review, replaced it with a lightweight Notion workflow that supported 30+ threat models in its first year.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Built and operated an open-source threat modeling app on EKS and RDS with Terraform, Helm, GitHub Actions, and Okta OIDC; after an adoption review, moved the workflow to Notion, which supported 30+ threat models in its first year.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -576,22 +576,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Responded to the November 2025 Shai-Hulud campaign by writing and deploying a Semgrep rule that blocked its indicator files the day it was announced.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Built a script to check Semgrep&amp;apos;s dependency inventory against compromised-package lists, using it during subsequent mini-Shai-Hulud and Axios compromises; also moved Semgrep&amp;apos;s run-shell-injection rule into blocking mode to harden CI/CD against the exploited vulnerability.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Responded to the November 2025 Shai-Hulud campaign by deploying a Semgrep rule to block indicator files on announcement day; after a retrospective, built a script to check Semgrep&amp;apos;s dependency inventory against compromised-package lists, later using it during mini-Shai-Hulud and Axios campaigns.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>
