@@ -86,9 +86,9 @@ employment:
       highlights:
         - As the inaugural Cloud Security Engineer, led security initiatives throughout a year-and-a-half long data center migration to GCP.
         # - Programmatically enforced CIS standards on hundreds of VMs migrated to Google Compute Engine and thousands of datasets uploaded to BigQuery.
-        - Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible GCS buckets.
-        - Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification.
-        - Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.
+        # - Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible GCS buckets.
+        # - Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification.
+        - Orchestrated the deployment of DiscrimiNAT across 6 VPCs, filtering egress traffic in 27 environments with over 900 unique FQDNs allowlisted.
         - Developed a Python Flask app that enables developers to bypass the 24-hour SLA for FQDN additions by quickly creating temporary egress firewall rules in lower environments. This innovation saved thousands of engineering hours, allowing uninterrupted development and testing.
         # - Revived and optimized scrum practices within the security team, taking a leadership role in restarting meetings and configuring Jira boards.
         - Introduced sprint planning, backlog grooming, and retrospective sessions, resulting in an outstanding 77% reduction in Lead Time for ticket completion, from an average of 61.3 days to just 13.8 days after 3 months.

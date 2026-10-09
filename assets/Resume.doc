@@ -744,37 +744,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Enforced CIS standards with Policy-as-Code for hundreds of GCP projects, ensuring compliance with encryption key usage and preventing misconfigurations such as publicly accessible GCS buckets.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Successfully implemented egress filtering for URLs in PHI environments, a pivotal step in achieving HITRUST certification.</w:t></w:r>
-            </w:p>
-            <w:p>
-              <w:pPr>
-                <w:pStyle w:val="ListParagraph" />
-                <w:listPr>
-                  <w:ilvl w:val="0" />
-                  <w:ilfo w:val="1" />
-                  <wx:t wx:val="•" />
-                  <wx:font wx:val="Calibri" />
-                </w:listPr>
-                <w:rPr>
-                  <w:sz-cs w:val="20" />
-                </w:rPr>
-              </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Orchestrated the deployment of DiscrimiNAT across 6 VPCs, effectively filtering traffic in 27 environments with over 900 unique FQDNs.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Orchestrated the deployment of DiscrimiNAT across 6 VPCs, filtering egress traffic in 27 environments with over 900 unique FQDNs allowlisted.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
