@@ -404,10 +404,10 @@
                 <w:b />
                 <w:b-cs />
               </w:rPr>
-              <w:t>Programming: </w:t>
+              <w:t>Technologies: </w:t>
             </w:r>
             <w:r>
-              <w:t>Go, Python, CSS, HTML, and JavaScript</w:t>
+              <w:t>AWS, GCP, Github Actions, Helm, Docker, Kubernetes, Terraform, and Jenkins</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -419,10 +419,10 @@
                 <w:b />
                 <w:b-cs />
               </w:rPr>
-              <w:t>Technologies: </w:t>
+              <w:t>Programming: </w:t>
             </w:r>
             <w:r>
-              <w:t>Ansible, AWS, GCP, Docker, Kubernetes, Terraform, and Jenkins</w:t>
+              <w:t>Go, Python, CSS, HTML, and JavaScript</w:t>
             </w:r>
           </w:p>
           <w:p>
@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Built an AI vulnerability-triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Automated vulnerability management with an event-driven pipeline that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams, and auto-closed 242 tickets on scanner fix or triage events.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -516,7 +516,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Replaced manual vulnerability handoffs with an event-driven pipeline (Tines, Jira automation, Slack) that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams and auto-closed 242 tickets on scanner fix or triage events.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Built an AI vulnerability triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>
@@ -547,6 +547,51 @@
                 </w:rPr>
               </w:pPr>
               <w:r><w:rPr></w:rPr><w:t>Owned the Rad Security runtime agent on 10 production and staging AWS EKS clusters, keeping Kubernetes threat detection and audit logging current through 12 merged Helm and Terraform PRs.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Built and operated an open-source threat modeling app on EKS and RDS using Terraform, Helm, GitHub Actions, and Okta OIDC; after an adoption review, replaced it with a lightweight Notion workflow that supported 30+ threat models in its first year.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Responded to the November 2025 Shai-Hulud campaign by writing and deploying a Semgrep rule that blocked its indicator files the day it was announced.</w:t></w:r>
+            </w:p>
+            <w:p>
+              <w:pPr>
+                <w:pStyle w:val="ListParagraph" />
+                <w:listPr>
+                  <w:ilvl w:val="0" />
+                  <w:ilfo w:val="1" />
+                  <wx:t wx:val="•" />
+                  <wx:font wx:val="Calibri" />
+                </w:listPr>
+                <w:rPr>
+                  <w:sz-cs w:val="20" />
+                </w:rPr>
+              </w:pPr>
+              <w:r><w:rPr></w:rPr><w:t>Built a script to check Semgrep&amp;apos;s dependency inventory against compromised-package lists, using it during subsequent mini-Shai-Hulud and Axios compromises; also moved Semgrep&amp;apos;s run-shell-injection rule into blocking mode to harden CI/CD against the exploited vulnerability.</w:t></w:r>
             </w:p>
         
           </wx:sub-section>

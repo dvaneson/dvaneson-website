@@ -58,10 +58,12 @@ employment:
       end: ""
       keywords: []
       highlights:
-        - Built an AI vulnerability-triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.
-        - Replaced manual vulnerability handoffs with an event-driven pipeline (Tines, Jira automation, Slack) that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams and auto-closed 242 tickets on scanner fix or triage events.
+        - Automated vulnerability management with an event-driven pipeline that tracked 1,000+ vulnerability findings from 5+ sources, set SLA due dates, routed vulnerabilities to owning teams, and auto-closed 242 tickets on scanner fix or triage events.
+        - Built an AI vulnerability triage agent (Claude Code sub-agents, Semgrep and Jira APIs, human approval gate) that drafted decisions on 438 tickets in 6 months as quarterly intake rose ~13x, screening out false positives (60%) before they reached engineering teams.
         - Partnered with Infrastructure on a service-mesh and Gateway API migration for east-west mTLS. Analyzed gateway benchmarks to steer controller selection, co-built Linkerd and Kgateway proofs of concept, and upgraded the Calico operator.
         - Owned the Rad Security runtime agent on 10 production and staging AWS EKS clusters, keeping Kubernetes threat detection and audit logging current through 12 merged Helm and Terraform PRs.
+        - Built and operated an open-source threat modeling app on EKS and RDS using Terraform, Helm, GitHub Actions, and Okta OIDC; after an adoption review, replaced it with a lightweight Notion workflow that supported 30+ threat models in its first year.
+        - Responded to the November 2025 Shai-Hulud campaign by writing and deploying a Semgrep rule that blocked its indicator files the day it was announced. Built a script to check Semgrep's dependency inventory against compromised-package lists, using it during subsequent mini-Shai-Hulud and Axios compromises.
 
     - position: Senior Cloud Security Engineer
       employer: apree health
@@ -175,6 +177,20 @@ education:
       title: Bachelor of Science in University Honors and Computer Science
 skills:
   sets:
+    - name: Technologies
+      skills:
+        # - Ansible
+        - AWS
+        - GCP
+        - Github Actions
+        - Helm
+        - Docker
+        - Kubernetes
+        # - TeamCity
+        - Terraform
+        # - Jira
+        - Jenkins
+        # - Selenium
     - name: Programming
       skills:
         - Go
@@ -185,19 +201,6 @@ skills:
         - HTML
         - JavaScript
         # - Java
-    - name: Technologies
-      skills:
-        - Ansible
-        - AWS
-        - GCP
-        # - Helm
-        - Docker
-        - Kubernetes
-        # - TeamCity
-        - Terraform
-        # - Jira
-        - Jenkins
-        # - Selenium
     - name: Certifications
       skills:
         - GIAC Cloud Security Automation Certification (GCSA)
