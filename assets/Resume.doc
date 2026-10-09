@@ -501,7 +501,7 @@
                   <w:sz-cs w:val="20" />
                 </w:rPr>
               </w:pPr>
-              <w:r><w:rPr></w:rPr><w:t>Automated vulnerability intake and routing across 5+ sources, tracking 1,000+ findings, assigning SLA due dates and owning teams, and auto-closing 242 Jira tickets after fixes or triage.</w:t></w:r>
+              <w:r><w:rPr></w:rPr><w:t>Automated vulnerability intake and routing across 5+ sources, tracking 1,000+ findings in a centralized Jira board, syncing tickets to team boards, setting SLA due dates based on severity, and auto-closing 242 tickets after fixes or triage.</w:t></w:r>
             </w:p>
             <w:p>
               <w:pPr>

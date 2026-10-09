@@ -58,7 +58,7 @@ employment:
       end: ""
       keywords: []
       highlights:
-        - Automated vulnerability intake and routing across 5+ sources, tracking 1,000+ findings, assigning SLA due dates and owning teams, and auto-closing 242 Jira tickets after fixes or triage.
+        - Automated vulnerability intake and routing across 5+ sources, tracking 1,000+ findings in a centralized Jira board, syncing tickets to team boards, setting SLA due dates based on severity, and auto-closing 242 tickets after fixes or triage.
         - Built an AI vulnerability triage agent that assessed business risk and assigned owning teams, identifying 60% of 438 reviewed tickets as false positives over 6 months as quarterly intake rose ~13x; an approval gate held Jira and Semgrep writes until review.
         - Defined security requirements for Infrastructure's service-mesh and Gateway API migration for east-west mTLS; used gateway benchmark data to inform controller selection and contributed to Linkerd service-policy and Kgateway proofs of concept.
         - Owned the Rad Security runtime agent on 10 production and staging AWS EKS clusters, keeping Kubernetes threat detection and audit logging current through 12 merged Helm and Terraform PRs.
